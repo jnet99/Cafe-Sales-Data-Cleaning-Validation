@@ -1,0 +1,1065 @@
+Area Code,Cogs,DifferenceBetweenActualandTargetProfit,Date,Inventory Margin,Margin,Market_size,Market_Area,Marketing_Cost,Product_line,Product_type,Product,Profit,Sales,State,Target_cogs,Target_margin,Target_profit,Target_sales ,Total_expenses,Type,Calculated_Profit,Profit_Match,Net_Profit_Status
+303,51,-35,2012-10-01,503,71,major market,central,46,leaves,herbal tea,lemon,-5,122,colorado,30,60,30,90,76,decaf,-5,True,net negative
+970,52,-24,2012-10-01,405,71,major market,central,17,leaves,herbal tea,mint,26,123,colorado,30,60,50,90,45,decaf,26,True,net positive
+409,43,-22,2012-10-02,419,64,major market,south,13,leaves,herbal tea,lemon,28,107,texas,30,60,50,90,36,decaf,28,True,net positive
+850,38,-15,2012-10-03,871,56,major market,east,10,leaves,tea,darjeeling,35,94,florida,40,60,50,100,21,regular,35,True,net positive
+562,72,6,2012-10-04,650,110,major market,west,23,leaves,tea,green tea,56,182,california,20,60,50,80,54,regular,56,True,net positive
+712,0,-29,2012-10-05,430,43,small market,central,0,beans,espresso,decaf espresso,31,43,iowa,0,60,60,60,12,decaf,31,True,net positive
+860,47,-29,2012-10-06,375,64,small market,east,15,beans,espresso,decaf espresso,21,111,connecticut,30,60,50,90,43,decaf,21,True,net positive
+918,27,-39,2012-10-07,859,39,small market,south,7,beans,coffee,decaf irish cream,21,66,oklahoma,30,60,60,90,18,decaf,21,True,net positive
+775,31,-43,2012-10-08,1000,37,small market,west,9,beans,coffee,decaf irish cream,7,68,nevada,30,60,50,90,30,decaf,7,True,net positive
+435,40,-23,2012-10-09,881,59,small market,west,11,beans,espresso,decaf espresso,37,99,utah,20,60,60,80,22,decaf,37,True,net positive
+603,49,-27,2012-10-10,310,71,small market,east,15,beans,coffee,amaretto,33,120,new hampshire,30,60,60,90,38,regular,33,True,net positive
+603,45,-26,2012-10-11,447,69,small market,east,14,beans,coffee,colombian,24,114,new hampshire,30,60,50,90,45,regular,24,True,net positive
+603,45,-37,2012-10-12,320,64,small market,east,41,beans,espresso,caffe mocha,-7,109,new hampshire,30,60,30,90,71,regular,-7,True,net negative
+318,60,-9,2012-10-13,-762,84,small market,south,54,beans,espresso,caffe latte,1,144,louisiana,30,60,10,90,83,regular,1,True,net positive
+775,34,-32,2012-10-14,240,43,small market,west,12,beans,coffee,colombian,-2,77,nevada,40,60,30,100,45,regular,-2,True,net negative
+503,54,-28,2012-10-15,404,66,small market,west,20,beans,espresso,caffe latte,12,120,oregon,40,60,40,100,54,regular,12,True,net positive
+573,45,-36,2012-10-16,320,64,small market,central,41,leaves,herbal tea,chamomile,-6,109,missouri,20,60,30,80,70,decaf,-6,True,net negative
+262,48,-15,2012-10-17,851,70,small market,central,13,leaves,herbal tea,lemon,45,118,wisconsin,30,60,60,90,25,decaf,45,True,net positive
+801,49,-27,2012-10-18,310,71,small market,west,15,leaves,herbal tea,chamomile,33,120,utah,30,60,60,90,38,decaf,33,True,net positive
+425,48,-13,2012-10-19,829,71,small market,west,13,leaves,herbal tea,lemon,47,119,washington,30,60,60,90,24,decaf,47,True,net positive
+860,40,-14,2012-10-20,881,59,small market,east,11,leaves,tea,darjeeling,36,99,connecticut,40,60,50,100,23,regular,36,True,net positive
+971,82,14,2012-10-21,788,123,small market,west,27,leaves,tea,earl grey,64,205,oregon,30,60,50,90,59,regular,64,True,net positive
+971,91,26,2012-10-22,656,127,small market,west,28,leaves,tea,green tea,76,218,oregon,40,60,50,100,51,regular,76,True,net positive
+915,40,-14,2012-10-23,536,52,major market,south,13,beans,coffee,decaf irish cream,26,92,texas,40,60,40,100,26,decaf,26,True,net positive
+210,50,8,2012-10-24,589,73,major market,south,14,beans,espresso,decaf espresso,48,123,texas,30,60,40,90,25,decaf,48,True,net positive
+970,40,-13,2012-10-25,536,52,major market,central,13,beans,coffee,colombian,27,92,colorado,30,60,40,90,25,regular,27,True,net positive
+774,52,-8,2012-10-26,554,68,major market,east,47,beans,espresso,caffe mocha,-8,120,massachusetts,50,60,0,110,76,regular,-8,True,net negative
+954,75,14,2012-10-27,1063,89,major market,east,23,leaves,herbal tea,mint,44,164,florida,50,60,30,110,45,decaf,44,True,net positive
+936,46,1,2012-10-28,424,68,major market,south,14,leaves,herbal tea,lemon,31,114,texas,40,60,30,100,37,decaf,31,True,net positive
+719,55,-5,2012-10-29,410,69,major market,central,20,leaves,tea,darjeeling,15,124,colorado,40,60,20,100,54,regular,15,True,net positive
+847,50,8,2012-10-30,589,73,major market,central,14,leaves,tea,darjeeling,48,123,illinois,40,60,40,100,25,regular,48,True,net positive
+719,57,-1,2012-10-31,1042,68,major market,central,17,leaves,tea,earl grey,29,125,colorado,40,60,30,100,39,regular,29,True,net positive
+339,36,-9,2012-11-01,862,52,major market,east,10,leaves,tea,darjeeling,31,88,massachusetts,30,60,40,90,21,regular,31,True,net positive
+314,33,-23,2012-11-02,836,48,small market,central,9,beans,espresso,decaf espresso,27,81,missouri,40,60,50,100,21,decaf,27,True,net positive
+314,33,-23,2012-11-02,836,48,small market,central,9,beans,espresso,decaf espresso,27,81,missouri,40,60,50,100,21,decaf,27,True,net positive
+504,31,-22,2012-11-03,856,47,small market,south,8,beans,coffee,decaf irish cream,28,78,louisiana,30,60,50,90,19,decaf,28,True,net positive
+580,36,-10,2012-11-04,862,52,small market,south,10,beans,coffee,decaf irish cream,30,88,oklahoma,40,60,40,100,22,decaf,30,True,net positive
+225,49,4,2012-11-05,454,71,small market,south,15,beans,espresso,decaf espresso,34,120,louisiana,30,60,30,90,37,decaf,34,True,net positive
+262,54,-6,2012-11-06,391,67,small market,central,20,beans,coffee,amaretto,14,121,wisconsin,50,60,20,110,53,regular,14,True,net positive
+603,46,-10,2012-11-07,316,67,small market,east,14,beans,coffee,amaretto,30,113,new hampshire,40,60,40,100,37,regular,30,True,net positive
+603,43,-10,2012-11-08,452,66,small market,east,14,beans,coffee,colombian,20,109,new hampshire,30,60,30,90,46,regular,20,True,net positive
+603,44,-18,2012-11-09,325,62,small market,east,40,beans,espresso,caffe mocha,-8,106,new hampshire,40,60,10,100,70,regular,-8,True,net negative
+225,53,19,2012-11-10,321,88,small market,south,16,beans,espresso,caffe mocha,49,141,louisiana,40,60,30,100,39,regular,49,True,net positive
+425,54,-7,2012-11-11,391,67,small market,west,20,beans,espresso,caffe mocha,13,121,washington,50,60,20,110,54,regular,13,True,net positive
+918,54,-7,2012-11-12,391,67,small market,south,20,leaves,herbal tea,chamomile,13,121,oklahoma,50,60,20,110,54,decaf,13,True,net positive
+801,46,0,2012-11-13,316,67,small market,west,14,leaves,herbal tea,chamomile,30,113,utah,40,60,30,100,37,decaf,30,True,net positive
+435,43,-10,2012-11-14,452,66,small market,west,14,leaves,herbal tea,lemon,20,109,utah,40,60,30,100,46,decaf,20,True,net positive
+509,47,4,2012-11-15,834,68,small market,west,13,leaves,herbal tea,lemon,44,115,washington,40,60,40,100,24,decaf,44,True,net positive
+203,36,-7,2012-11-16,809,54,small market,east,10,leaves,tea,green tea,33,90,connecticut,30,60,40,90,21,regular,33,True,net positive
+314,33,-23,2012-11-02,836,48,small market,central,9,beans,espresso,decaf espresso,27,81,missouri,40,60,50,100,21,decaf,27,True,net positive
+206,61,1,2012-11-17,613,86,small market,west,55,leaves,tea,green tea,1,147,washington,40,60,0,100,85,regular,1,True,net positive
+682,43,-10,2012-11-18,531,56,major market,south,14,beans,coffee,decaf irish cream,30,99,texas,50,60,40,110,26,decaf,30,True,net positive
+214,54,12,2012-11-19,601,79,major market,south,15,beans,espresso,decaf espresso,52,133,texas,40,60,40,100,27,decaf,52,True,net positive
+970,47,-6,2012-11-20,521,65,major market,central,42,leaves,herbal tea,lemon,-6,112,colorado,40,60,0,100,71,decaf,-6,True,net negative
+303,54,-1,2012-11-21,424,73,major market,central,17,leaves,herbal tea,mint,29,127,colorado,50,60,30,110,44,decaf,29,True,net positive
+954,65,3,2012-11-22,403,80,major market,east,24,leaves,herbal tea,lemon,23,145,florida,40,60,20,100,57,decaf,23,True,net positive
+561,80,20,2012-11-23,1079,96,major market,east,24,leaves,herbal tea,mint,50,176,florida,60,60,30,120,46,decaf,50,True,net positive
+469,54,-2,2012-11-24,424,73,major market,south,17,leaves,herbal tea,chamomile,28,127,texas,50,60,30,110,45,decaf,28,True,net positive
+214,41,-6,2012-11-25,435,60,major market,south,13,leaves,herbal tea,lemon,24,101,texas,30,60,30,90,36,decaf,24,True,net positive
+619,54,3,2012-11-26,601,79,major market,west,15,leaves,tea,earl grey,53,133,california,30,60,50,90,26,regular,53,True,net positive
+314,31,-23,2012-11-27,844,46,small market,central,8,beans,espresso,decaf espresso,27,77,missouri,30,60,50,90,19,decaf,27,True,net positive
+225,34,-19,2012-11-28,863,51,small market,south,9,beans,coffee,decaf irish cream,31,85,louisiana,40,60,50,100,20,decaf,31,True,net positive
+580,33,-22,2012-11-29,870,49,small market,south,9,beans,coffee,decaf irish cream,28,82,oklahoma,30,60,50,90,21,decaf,28,True,net positive
+603,48,-2,2012-11-30,462,74,small market,east,15,beans,coffee,colombian,28,122,new hampshire,40,60,30,100,46,regular,28,True,net positive
+985,55,-3,2012-12-01,-1053,76,small market,south,49,beans,espresso,caffe latte,-3,131,louisiana,40,60,0,100,79,regular,-3,True,net negative
+505,49,-15,2012-12-02,335,69,small market,south,44,beans,espresso,caffe mocha,-5,118,new mexico,30,60,10,90,74,regular,-5,True,net negative
+775,39,-19,2012-12-03,250,49,small market,west,14,beans,coffee,colombian,1,88,nevada,40,60,20,100,48,regular,1,True,net positive
+417,49,-5,2012-12-04,335,69,small market,central,44,leaves,herbal tea,chamomile,-5,118,missouri,40,60,0,100,74,decaf,-5,True,net negative
+920,41,0,2012-12-05,320,66,small market,central,12,leaves,herbal tea,chamomile,30,107,wisconsin,30,60,30,90,36,decaf,30,True,net positive
+573,92,-4,2012-12-06,1898,68,small market,central,28,leaves,herbal tea,lemon,16,160,missouri,80,60,20,140,52,decaf,16,True,net positive
+475,68,7,2012-12-07,619,85,small market,east,25,leaves,herbal tea,lemon,27,153,connecticut,50,60,20,110,58,decaf,27,True,net positive
+475,63,-4,2012-12-08,1075,76,small market,east,19,leaves,herbal tea,mint,36,139,connecticut,40,60,40,100,40,decaf,36,True,net positive
+435,92,-3,2012-12-09,1898,68,small market,west,28,leaves,herbal tea,mint,17,160,utah,80,60,20,140,51,decaf,17,True,net positive
+920,55,-3,2012-12-10,627,76,small market,central,49,leaves,tea,earl grey,-3,131,wisconsin,40,60,0,100,79,regular,-3,True,net negative
+720,51,-37,2012-12-11,503,71,major market,central,46,leaves,herbal tea,lemon,3,130,colorado,30,60,30,90,76,decaf,3,True,net positive
+970,52,-11,2012-12-12,405,71,major market,central,17,leaves,herbal tea,mint,34,131,colorado,30,60,50,90,45,decaf,34,True,net positive
+430,43,-8,2012-12-13,419,64,major market,south,13,leaves,herbal tea,lemon,35,114,texas,30,60,50,90,36,decaf,35,True,net positive
+561,38,2,2012-12-14,871,56,major market,east,10,leaves,tea,darjeeling,41,100,florida,40,60,50,100,21,regular,41,True,net positive
+510,72,33,2012-12-15,650,110,major market,west,23,leaves,tea,green tea,68,194,california,20,60,50,80,54,regular,68,True,net positive
+563,0,-14,2012-12-16,430,43,small market,central,0,beans,espresso,decaf espresso,34,46,iowa,0,60,60,60,12,decaf,34,True,net positive
+203,47,-19,2012-12-17,375,64,small market,east,15,beans,espresso,decaf espresso,28,118,connecticut,30,60,50,90,43,decaf,28,True,net positive
+405,27,-29,2012-12-18,859,39,small market,south,7,beans,coffee,decaf irish cream,25,70,oklahoma,30,60,60,90,18,decaf,25,True,net positive
+775,31,-40,2012-12-19,1000,37,small market,west,9,beans,coffee,decaf irish cream,11,72,nevada,30,60,50,90,30,decaf,11,True,net positive
+435,40,-5,2012-12-20,881,59,small market,west,11,beans,espresso,decaf espresso,44,106,utah,20,60,60,80,22,decaf,44,True,net positive
+603,49,-11,2012-12-21,310,71,small market,east,15,beans,coffee,amaretto,41,128,new hampshire,30,60,60,90,38,regular,41,True,net positive
+603,45,-14,2012-12-22,447,69,small market,east,14,beans,coffee,colombian,31,121,new hampshire,30,60,50,90,45,regular,31,True,net positive
+603,45,-40,2012-12-23,320,64,small market,east,41,beans,espresso,caffe mocha,0,116,new hampshire,30,60,30,90,71,regular,0,True,net negative
+504,60,-9,2012-12-24,-762,84,small market,south,54,beans,espresso,caffe latte,10,153,louisiana,30,60,10,90,83,regular,10,True,net positive
+702,34,-33,2012-12-25,240,43,small market,west,12,beans,coffee,colombian,3,82,nevada,40,60,30,100,45,regular,3,True,net positive
+971,54,-22,2012-12-26,404,66,small market,west,20,beans,espresso,caffe latte,20,128,oregon,40,60,40,100,54,regular,20,True,net positive
+573,45,-39,2012-12-27,320,64,small market,central,41,leaves,herbal tea,chamomile,1,116,missouri,20,60,30,80,70,decaf,1,True,net positive
+262,48,7,2012-12-28,851,70,small market,central,13,leaves,herbal tea,lemon,53,126,wisconsin,30,60,60,90,25,decaf,53,True,net positive
+801,49,-11,2012-12-29,310,71,small market,west,15,leaves,herbal tea,chamomile,41,128,utah,30,60,60,90,38,decaf,41,True,net positive
+509,48,10,2012-12-30,829,71,small market,west,13,leaves,herbal tea,lemon,55,127,washington,30,60,60,90,24,decaf,55,True,net positive
+475,40,3,2012-12-31,881,59,small market,east,11,leaves,tea,darjeeling,43,106,connecticut,40,60,50,100,23,regular,43,True,net positive
+503,82,45,2013-01-01,788,123,small market,west,27,leaves,tea,earl grey,77,218,oregon,30,60,50,90,59,regular,77,True,net positive
+541,91,63,2013-01-02,656,127,small market,west,28,leaves,tea,green tea,90,232,oregon,40,60,50,100,51,regular,90,True,net positive
+936,40,-1,2013-01-03,536,52,major market,south,13,beans,coffee,decaf irish cream,32,98,texas,40,60,40,100,26,decaf,32,True,net positive
+254,50,31,2013-01-04,589,73,major market,south,14,beans,espresso,decaf espresso,56,131,texas,30,60,40,90,25,decaf,56,True,net positive
+719,40,0,2013-01-05,536,52,major market,central,13,beans,coffee,colombian,33,98,colorado,30,60,40,90,25,regular,33,True,net positive
+339,52,-12,2013-01-06,554,68,major market,east,47,beans,espresso,caffe mocha,0,128,massachusetts,50,60,0,110,76,regular,0,True,net negative
+561,75,35,2013-01-07,1063,89,major market,east,23,leaves,herbal tea,mint,55,175,florida,50,60,30,110,45,decaf,55,True,net positive
+806,46,16,2013-01-08,424,68,major market,south,14,leaves,herbal tea,lemon,38,121,texas,40,60,30,100,37,decaf,38,True,net positive
+719,55,2,2013-01-09,410,69,major market,central,20,leaves,tea,darjeeling,23,132,colorado,40,60,20,100,54,regular,23,True,net positive
+708,50,31,2013-01-10,589,73,major market,central,14,leaves,tea,darjeeling,56,131,illinois,40,60,40,100,25,regular,56,True,net positive
+719,57,13,2013-01-11,1042,68,major market,central,17,leaves,tea,earl grey,37,133,colorado,40,60,30,100,39,regular,37,True,net positive
+351,36,6,2013-01-12,862,52,major market,east,10,leaves,tea,darjeeling,37,94,massachusetts,30,60,40,90,21,regular,37,True,net positive
+636,33,-10,2013-01-13,836,48,small market,central,9,beans,espresso,decaf espresso,32,86,missouri,40,60,50,100,21,decaf,32,True,net positive
+504,31,-8,2013-01-14,856,47,small market,south,8,beans,coffee,decaf irish cream,33,83,louisiana,30,60,50,90,19,decaf,33,True,net positive
+580,36,5,2013-01-15,862,52,small market,south,10,beans,coffee,decaf irish cream,36,94,oklahoma,40,60,40,100,22,decaf,36,True,net positive
+337,49,20,2013-01-16,454,71,small market,south,15,beans,espresso,decaf espresso,42,128,louisiana,30,60,30,90,37,decaf,42,True,net positive
+262,54,1,2013-01-17,391,67,small market,central,20,beans,coffee,amaretto,22,129,wisconsin,50,60,20,110,53,regular,22,True,net positive
+603,46,5,2013-01-18,316,67,small market,east,14,beans,coffee,amaretto,37,120,new hampshire,40,60,40,100,37,regular,37,True,net positive
+603,43,0,2013-01-19,452,66,small market,east,14,beans,coffee,colombian,27,116,new hampshire,30,60,30,90,46,regular,27,True,net positive
+603,44,-22,2013-01-20,325,62,small market,east,40,beans,espresso,caffe mocha,-1,113,new hampshire,40,60,10,100,70,regular,-1,True,net negative
+318,53,43,2013-01-21,321,88,small market,south,16,beans,espresso,caffe mocha,58,150,louisiana,40,60,30,100,39,regular,58,True,net positive
+206,54,-1,2013-01-22,391,67,small market,west,20,beans,espresso,caffe mocha,21,129,washington,50,60,20,110,54,regular,21,True,net positive
+580,54,-1,2013-01-23,391,67,small market,south,20,leaves,herbal tea,chamomile,21,129,oklahoma,50,60,20,110,54,decaf,21,True,net positive
+435,46,15,2013-01-24,316,67,small market,west,14,leaves,herbal tea,chamomile,37,120,utah,40,60,30,100,37,decaf,37,True,net positive
+435,43,0,2013-01-25,452,66,small market,west,14,leaves,herbal tea,lemon,27,116,utah,40,60,30,100,46,decaf,27,True,net positive
+253,47,25,2013-01-26,834,68,small market,west,13,leaves,herbal tea,lemon,52,123,washington,40,60,40,100,24,decaf,52,True,net positive
+203,36,9,2013-01-27,809,54,small market,east,10,leaves,tea,green tea,39,96,connecticut,30,60,40,90,21,regular,39,True,net positive
+509,61,1,2013-01-28,613,86,small market,west,55,leaves,tea,green tea,11,157,washington,40,60,0,100,85,regular,11,True,net positive
+956,43,5,2013-01-29,531,56,major market,south,14,beans,coffee,decaf irish cream,37,106,texas,50,60,40,110,26,decaf,37,True,net positive
+430,54,37,2013-01-30,601,79,major market,south,15,beans,espresso,decaf espresso,61,142,texas,40,60,40,100,27,decaf,61,True,net positive
+719,47,-9,2013-01-31,521,65,major market,central,42,leaves,herbal tea,lemon,1,119,colorado,40,60,0,100,71,decaf,1,True,net positive
+970,54,13,2013-02-01,424,73,major market,central,17,leaves,herbal tea,mint,37,135,colorado,50,60,30,110,44,decaf,37,True,net positive
+305,65,14,2013-02-02,403,80,major market,east,24,leaves,herbal tea,lemon,33,155,florida,40,60,20,100,57,decaf,33,True,net positive
+407,80,44,2013-02-03,1079,96,major market,east,24,leaves,herbal tea,mint,62,188,florida,60,60,30,120,46,decaf,62,True,net positive
+325,54,12,2013-02-04,424,73,major market,south,17,leaves,herbal tea,chamomile,36,135,texas,50,60,30,110,45,decaf,36,True,net positive
+430,41,6,2013-02-05,435,60,major market,south,13,leaves,herbal tea,lemon,31,108,texas,30,60,30,90,36,decaf,31,True,net positive
+408,54,29,2013-02-06,601,79,major market,west,15,leaves,tea,earl grey,62,142,california,30,60,50,90,26,regular,62,True,net positive
+816,31,-10,2013-02-07,844,46,small market,central,8,beans,espresso,decaf espresso,32,82,missouri,30,60,50,90,19,decaf,32,True,net positive
+337,34,-4,2013-02-08,863,51,small market,south,9,beans,coffee,decaf irish cream,37,91,louisiana,40,60,50,100,20,decaf,37,True,net positive
+918,33,-8,2013-02-09,870,49,small market,south,9,beans,coffee,decaf irish cream,33,87,oklahoma,30,60,50,90,21,decaf,33,True,net positive
+603,48,12,2013-02-10,462,74,small market,east,15,beans,coffee,colombian,36,130,new hampshire,40,60,30,100,46,regular,36,True,net positive
+225,55,-4,2013-02-11,-1053,76,small market,south,49,beans,espresso,caffe latte,6,140,louisiana,40,60,0,100,79,regular,6,True,net positive
+505,49,-17,2013-02-12,335,69,small market,south,44,beans,espresso,caffe mocha,3,126,new mexico,30,60,10,90,74,regular,3,True,net positive
+702,39,-19,2013-02-13,250,49,small market,west,14,beans,coffee,colombian,7,94,nevada,40,60,20,100,48,regular,7,True,net positive
+314,49,-7,2013-02-14,335,69,small market,central,44,leaves,herbal tea,chamomile,3,126,missouri,40,60,0,100,74,decaf,3,True,net positive
+920,41,15,2013-02-15,320,66,small market,central,12,leaves,herbal tea,chamomile,37,114,wisconsin,30,60,30,90,36,decaf,37,True,net positive
+417,92,4,2013-02-16,1898,68,small market,central,28,leaves,herbal tea,lemon,27,171,missouri,80,60,20,140,52,decaf,27,True,net positive
+860,68,20,2013-02-17,619,85,small market,east,25,leaves,herbal tea,lemon,37,163,connecticut,50,60,20,110,58,decaf,37,True,net positive
+203,63,13,2013-02-18,1075,76,small market,east,19,leaves,herbal tea,mint,45,148,connecticut,40,60,40,100,40,decaf,45,True,net positive
+435,92,5,2013-02-19,1898,68,small market,west,28,leaves,herbal tea,mint,28,171,utah,80,60,20,140,51,decaf,28,True,net positive
+262,55,-4,2013-02-20,627,76,small market,central,49,leaves,tea,earl grey,6,140,wisconsin,40,60,0,100,79,regular,6,True,net positive
+719,39,-23,2013-02-21,541,51,major market,central,12,beans,coffee,colombian,27,90,colorado,30,50,50,80,24,regular,27,True,net positive
+305,80,8,2013-02-22,1055,94,major market,east,24,leaves,herbal tea,mint,48,174,florida,40,50,40,90,46,decaf,48,True,net positive
+303,54,-17,2013-02-23,404,66,major market,central,20,leaves,tea,darjeeling,13,120,colorado,30,50,30,80,53,regular,13,True,net positive
+303,54,-13,2013-02-24,1037,64,major market,central,16,leaves,tea,earl grey,27,118,colorado,30,50,40,80,37,regular,27,True,net positive
+508,27,-30,2013-02-25,859,39,major market,east,7,leaves,tea,darjeeling,20,66,massachusetts,20,50,50,70,19,regular,20,True,net positive
+209,76,29,2013-02-26,580,111,major market,west,21,leaves,tea,earl grey,79,187,california,30,50,50,80,32,regular,79,True,net positive
+715,22,-40,2013-02-27,573,29,small market,central,7,beans,espresso,decaf espresso,10,51,wisconsin,20,50,50,70,19,decaf,10,True,net positive
+319,23,-32,2013-02-28,800,35,small market,central,6,beans,espresso,caffe mocha,18,58,iowa,20,50,50,70,17,regular,18,True,net positive
+959,79,4,2013-03-01,593,98,small market,east,30,leaves,herbal tea,lemon,34,177,connecticut,40,50,30,90,64,decaf,34,True,net positive
+860,65,-15,2013-03-02,1053,77,small market,east,20,leaves,herbal tea,mint,35,142,connecticut,30,50,50,80,42,decaf,35,True,net positive
+262,46,-10,2013-03-03,449,67,small market,central,14,leaves,tea,darjeeling,30,113,wisconsin,20,50,40,70,37,regular,30,True,net positive
+715,60,0,2013-03-04,606,84,small market,central,54,leaves,tea,earl grey,0,144,wisconsin,40,50,0,90,84,regular,0,True,net negative
+206,60,17,2013-03-05,329,99,small market,west,18,leaves,tea,darjeeling,57,159,washington,20,50,40,70,42,regular,57,True,net positive
+773,40,-3,2013-03-06,536,52,major market,central,13,leaves,herbal tea,lemon,27,92,illinois,30,50,30,80,25,decaf,27,True,net positive
+614,36,-10,2013-03-07,862,52,major market,central,10,leaves,herbal tea,lemon,30,88,ohio,30,50,40,80,22,decaf,30,True,net positive
+617,55,-5,2013-03-08,410,69,major market,east,20,leaves,herbal tea,lemon,15,124,massachusetts,40,50,20,90,54,decaf,15,True,net positive
+707,40,-3,2013-03-09,536,52,major market,west,13,leaves,herbal tea,mint,27,92,california,30,50,30,80,25,decaf,27,True,net positive
+352,28,-17,2013-03-10,875,42,major market,east,7,leaves,tea,darjeeling,23,70,florida,20,50,40,70,19,regular,23,True,net positive
+561,31,-12,2013-03-11,856,47,major market,east,8,leaves,tea,green tea,28,78,florida,30,50,40,80,19,regular,28,True,net positive
+351,32,-11,2013-03-12,482,48,major market,east,8,leaves,tea,green tea,29,80,massachusetts,30,50,40,80,19,regular,29,True,net positive
+650,50,7,2013-03-13,589,73,major market,west,14,leaves,tea,earl grey,47,123,california,30,50,40,80,26,regular,47,True,net positive
+712,0,-9,2013-03-14,387,43,small market,central,0,beans,espresso,decaf espresso,31,43,iowa,0,50,40,50,12,decaf,31,True,net positive
+505,82,-18,2013-03-15,1804,40,small market,south,25,beans,coffee,decaf irish cream,-8,122,new mexico,90,50,10,140,48,decaf,-8,True,net negative
+515,22,-24,2013-03-16,802,34,small market,central,6,beans,espresso,caffe mocha,16,56,iowa,20,50,40,70,18,regular,16,True,net positive
+505,44,-7,2013-03-17,325,62,small market,south,40,beans,espresso,caffe mocha,-7,106,new mexico,30,50,0,80,69,regular,-7,True,net negative
+775,33,-14,2013-03-18,243,41,small market,west,12,beans,coffee,colombian,-4,74,nevada,30,50,10,80,45,regular,-4,True,net negative
+573,44,-8,2013-03-19,325,62,small market,central,40,leaves,herbal tea,chamomile,-8,106,missouri,40,50,0,90,70,decaf,-8,True,net negative
+262,31,-13,2013-03-20,856,47,small market,central,8,leaves,herbal tea,lemon,27,78,wisconsin,20,50,40,70,20,decaf,27,True,net positive
+475,69,8,2013-03-21,1060,81,small market,east,21,leaves,herbal tea,mint,38,150,connecticut,50,50,30,100,43,decaf,38,True,net positive
+262,49,13,2013-03-22,454,71,small market,central,15,leaves,tea,darjeeling,33,120,wisconsin,40,50,20,90,38,regular,33,True,net positive
+206,49,4,2013-03-23,454,71,small market,west,15,leaves,tea,earl grey,34,120,washington,30,50,30,80,37,regular,34,True,net positive
+970,43,-1,2013-03-24,531,56,major market,central,14,beans,coffee,colombian,29,99,colorado,40,50,30,90,27,regular,29,True,net positive
+614,41,4,2013-03-25,435,60,major market,central,13,beans,coffee,colombian,24,101,ohio,40,50,20,90,36,regular,24,True,net positive
+339,47,-10,2013-03-26,571,52,major market,east,42,beans,espresso,caffe mocha,-20,99,massachusetts,40,50,-10,90,72,regular,-20,True,net negative
+773,43,-1,2013-03-27,531,56,major market,central,14,leaves,herbal tea,lemon,29,99,illinois,40,50,30,90,27,decaf,29,True,net positive
+805,43,-1,2013-03-28,531,56,major market,west,14,leaves,herbal tea,mint,29,99,california,40,50,30,90,27,decaf,29,True,net positive
+303,46,-4,2013-03-29,422,57,major market,central,17,leaves,tea,darjeeling,6,103,colorado,30,50,10,80,51,regular,6,True,net positive
+303,53,6,2013-03-30,1054,63,major market,central,16,leaves,tea,earl grey,26,116,colorado,40,50,20,90,37,regular,26,True,net positive
+617,33,-11,2013-03-31,870,49,major market,east,9,leaves,tea,darjeeling,29,82,massachusetts,30,50,40,80,20,regular,29,True,net positive
+863,34,-10,2013-04-01,863,51,major market,east,9,leaves,tea,green tea,30,85,florida,30,50,40,80,21,regular,30,True,net positive
+641,0,-8,2013-04-02,344,43,small market,central,0,beans,espresso,decaf espresso,32,43,iowa,0,50,40,50,11,decaf,32,True,net positive
+225,43,7,2013-04-03,466,63,small market,south,13,beans,espresso,decaf espresso,27,106,louisiana,30,50,20,80,36,decaf,27,True,net positive
+702,31,-22,2013-04-04,1009,38,small market,west,9,beans,coffee,decaf irish cream,8,69,nevada,30,50,30,80,30,decaf,8,True,net positive
+515,23,-23,2013-04-05,807,35,small market,central,6,beans,espresso,caffe mocha,17,58,iowa,20,50,40,70,18,regular,17,True,net positive
+985,41,11,2013-04-06,320,66,small market,south,12,beans,espresso,caffe mocha,31,107,louisiana,30,50,20,80,35,regular,31,True,net positive
+971,46,-4,2013-04-07,422,57,small market,west,17,beans,espresso,caffe latte,6,103,oregon,40,50,10,90,51,regular,6,True,net positive
+262,43,8,2013-04-08,466,63,small market,central,13,leaves,tea,darjeeling,28,106,wisconsin,30,50,20,80,35,regular,28,True,net positive
+959,33,-12,2013-04-09,818,49,small market,east,9,leaves,tea,green tea,28,82,connecticut,30,50,40,80,21,regular,28,True,net positive
+435,49,-4,2013-04-10,335,69,small market,west,44,leaves,tea,darjeeling,-4,118,utah,30,50,0,80,73,regular,-4,True,net negative
+360,55,7,2013-04-11,627,76,small market,west,49,leaves,tea,green tea,-3,131,washington,40,50,-10,90,79,regular,-3,True,net negative
+303,39,-10,2013-04-12,541,51,major market,central,12,beans,coffee,colombian,33,96,colorado,30,50,50,80,24,regular,33,True,net positive
+904,80,31,2013-04-13,1055,94,major market,east,24,leaves,herbal tea,mint,59,185,florida,40,50,40,90,46,decaf,59,True,net positive
+720,54,-11,2013-04-14,404,66,major market,central,20,leaves,tea,darjeeling,21,128,colorado,30,50,30,80,53,regular,21,True,net positive
+970,54,0,2013-04-15,1037,64,major market,central,16,leaves,tea,earl grey,35,126,colorado,30,50,40,80,37,regular,35,True,net positive
+978,27,-20,2013-04-16,859,39,major market,east,7,leaves,tea,darjeeling,24,70,massachusetts,20,50,50,70,19,regular,24,True,net positive
+626,76,67,2013-04-17,580,111,major market,west,21,leaves,tea,earl grey,91,199,california,30,50,50,80,32,regular,91,True,net positive
+262,22,-35,2013-04-18,573,29,small market,central,7,beans,espresso,decaf espresso,13,54,wisconsin,20,50,50,70,19,decaf,13,True,net positive
+641,23,-23,2013-04-19,800,35,small market,central,6,beans,espresso,caffe mocha,22,62,iowa,20,50,50,70,17,regular,22,True,net positive
+203,79,20,2013-04-20,593,98,small market,east,30,leaves,herbal tea,lemon,46,189,connecticut,40,50,30,90,64,decaf,46,True,net positive
+203,65,2,2013-04-21,1053,77,small market,east,20,leaves,herbal tea,mint,44,151,connecticut,30,50,50,80,42,decaf,44,True,net positive
+262,46,5,2013-04-22,449,67,small market,central,14,leaves,tea,darjeeling,37,120,wisconsin,20,50,40,70,37,regular,37,True,net positive
+262,60,0,2013-04-23,606,84,small market,central,54,leaves,tea,earl grey,9,153,wisconsin,40,50,0,90,84,regular,9,True,net positive
+425,60,45,2013-04-24,329,99,small market,west,18,leaves,tea,darjeeling,67,169,washington,20,50,40,70,42,regular,67,True,net positive
+312,40,10,2013-04-25,536,52,major market,central,13,leaves,herbal tea,lemon,33,98,illinois,30,50,30,80,25,decaf,33,True,net positive
+419,36,5,2013-04-26,862,52,major market,central,10,leaves,herbal tea,lemon,36,94,ohio,30,50,40,80,22,decaf,36,True,net positive
+857,55,2,2013-04-27,410,69,major market,east,20,leaves,herbal tea,lemon,23,132,massachusetts,40,50,20,90,54,decaf,23,True,net positive
+323,40,10,2013-04-28,536,52,major market,west,13,leaves,herbal tea,mint,33,98,california,30,50,30,80,25,decaf,33,True,net positive
+352,28,-6,2013-04-29,875,42,major market,east,7,leaves,tea,darjeeling,28,75,florida,20,50,40,70,19,regular,28,True,net positive
+904,31,2,2013-04-30,856,47,major market,east,8,leaves,tea,green tea,33,83,florida,30,50,40,80,19,regular,33,True,net positive
+978,32,3,2013-05-01,482,48,major market,east,8,leaves,tea,green tea,34,85,massachusetts,30,50,40,80,19,regular,34,True,net positive
+760,50,30,2013-05-02,589,73,major market,west,14,leaves,tea,earl grey,55,131,california,30,50,40,80,26,regular,55,True,net positive
+515,0,6,2013-05-03,387,43,small market,central,0,beans,espresso,decaf espresso,34,46,iowa,0,50,40,50,12,decaf,34,True,net positive
+505,82,-22,2013-05-04,1804,40,small market,south,25,beans,coffee,decaf irish cream,0,130,new mexico,90,50,10,140,48,decaf,0,True,net negative
+515,22,-16,2013-05-05,802,34,small market,central,6,beans,espresso,caffe mocha,20,60,iowa,20,50,40,70,18,regular,20,True,net positive
+505,44,-10,2013-05-06,325,62,small market,south,40,beans,espresso,caffe mocha,0,113,new mexico,30,50,0,80,69,regular,0,True,net negative
+775,33,-16,2013-05-07,243,41,small market,west,12,beans,coffee,colombian,1,79,nevada,30,50,10,80,45,regular,1,True,net positive
+314,44,-12,2013-05-08,325,62,small market,central,40,leaves,herbal tea,chamomile,-1,113,missouri,40,50,0,90,70,decaf,-1,True,net negative
+715,31,0,2013-05-09,856,47,small market,central,8,leaves,herbal tea,lemon,32,83,wisconsin,20,50,40,70,20,decaf,32,True,net positive
+959,69,26,2013-05-10,1060,81,small market,east,21,leaves,herbal tea,mint,48,160,connecticut,50,50,30,100,43,decaf,48,True,net positive
+715,49,29,2013-05-11,454,71,small market,central,15,leaves,tea,darjeeling,41,128,wisconsin,40,50,20,90,38,regular,41,True,net positive
+206,49,20,2013-05-12,454,71,small market,west,15,leaves,tea,earl grey,42,128,washington,30,50,30,80,37,regular,42,True,net positive
+970,43,13,2013-05-13,531,56,major market,central,14,beans,coffee,colombian,36,106,colorado,40,50,30,90,27,regular,36,True,net positive
+330,41,16,2013-05-14,435,60,major market,central,13,beans,coffee,colombian,31,108,ohio,40,50,20,90,36,regular,31,True,net positive
+978,47,-20,2013-05-15,571,52,major market,east,42,beans,espresso,caffe mocha,-13,106,massachusetts,40,50,-10,90,72,regular,-13,True,net negative
+312,43,13,2013-05-16,531,56,major market,central,14,leaves,herbal tea,lemon,36,106,illinois,40,50,30,90,27,decaf,36,True,net positive
+323,43,13,2013-05-17,531,56,major market,west,14,leaves,herbal tea,mint,36,106,california,40,50,30,90,27,decaf,36,True,net positive
+303,46,-1,2013-05-18,422,57,major market,central,17,leaves,tea,darjeeling,13,110,colorado,30,50,10,80,51,regular,13,True,net positive
+970,53,19,2013-05-19,1054,63,major market,central,16,leaves,tea,earl grey,34,124,colorado,40,50,20,90,37,regular,34,True,net positive
+978,33,3,2013-05-20,870,49,major market,east,9,leaves,tea,darjeeling,34,87,massachusetts,30,50,40,80,20,regular,34,True,net positive
+321,34,5,2013-05-21,863,51,major market,east,9,leaves,tea,green tea,36,91,florida,30,50,40,80,21,regular,36,True,net positive
+563,0,7,2013-05-22,344,43,small market,central,0,beans,espresso,decaf espresso,35,46,iowa,0,50,40,50,11,decaf,35,True,net positive
+318,43,20,2013-05-23,466,63,small market,south,13,beans,espresso,decaf espresso,34,113,louisiana,30,50,20,80,36,decaf,34,True,net positive
+775,31,-18,2013-05-24,1009,38,small market,west,9,beans,coffee,decaf irish cream,13,74,nevada,30,50,30,80,30,decaf,13,True,net positive
+515,23,-15,2013-05-25,807,35,small market,central,6,beans,espresso,caffe mocha,21,62,iowa,20,50,40,70,18,regular,21,True,net positive
+225,41,26,2013-05-26,320,66,small market,south,12,beans,espresso,caffe mocha,38,114,louisiana,30,50,20,80,35,regular,38,True,net positive
+971,46,-1,2013-05-27,422,57,small market,west,17,beans,espresso,caffe latte,13,110,oregon,40,50,10,90,51,regular,13,True,net positive
+262,43,22,2013-05-28,466,63,small market,central,13,leaves,tea,darjeeling,35,113,wisconsin,30,50,20,80,35,regular,35,True,net positive
+959,33,2,2013-05-29,818,49,small market,east,9,leaves,tea,green tea,33,87,connecticut,30,50,40,80,21,regular,33,True,net positive
+435,49,-6,2013-05-30,335,69,small market,west,44,leaves,tea,darjeeling,4,126,utah,30,50,0,80,73,regular,4,True,net positive
+509,55,6,2013-05-31,627,76,small market,west,49,leaves,tea,green tea,6,140,washington,40,50,-10,90,79,regular,6,True,net positive
+630,39,-13,2013-06-01,541,51,major market,central,12,leaves,herbal tea,lemon,27,90,illinois,20,40,40,60,24,decaf,27,True,net positive
+209,39,-14,2013-06-02,541,51,major market,west,12,leaves,herbal tea,mint,26,90,california,20,40,40,60,25,decaf,26,True,net positive
+505,86,-36,2013-06-03,1698,23,small market,south,26,beans,coffee,decaf irish cream,-26,109,new mexico,110,40,10,150,49,decaf,-26,True,net negative
+318,46,-10,2013-06-04,449,67,small market,south,14,beans,espresso,decaf espresso,30,113,louisiana,20,40,40,60,37,decaf,30,True,net positive
+515,31,-23,2013-06-05,1000,37,small market,central,9,beans,coffee,colombian,7,68,iowa,20,40,30,60,30,regular,7,True,net positive
+505,45,-16,2013-06-06,320,64,small market,south,41,beans,espresso,caffe mocha,-6,109,new mexico,20,40,10,60,70,regular,-6,True,net negative
+801,32,-12,2013-06-07,833,47,small market,west,8,beans,espresso,caffe latte,28,79,utah,20,40,40,60,19,regular,28,True,net positive
+505,31,-24,2013-06-08,1000,37,small market,south,9,leaves,herbal tea,lemon,6,68,new mexico,10,40,30,50,31,decaf,6,True,net positive
+636,39,-17,2013-06-09,244,53,small market,central,12,leaves,tea,darjeeling,13,92,missouri,20,40,30,60,40,regular,13,True,net positive
+959,24,-22,2013-06-10,806,36,small market,east,6,leaves,tea,green tea,18,60,connecticut,20,40,40,60,18,regular,18,True,net positive
+603,0,-8,2013-06-11,430,43,small market,east,0,leaves,tea,green tea,32,43,new hampshire,0,40,40,40,11,regular,32,True,net positive
+801,45,-26,2013-06-12,320,64,small market,west,41,leaves,tea,darjeeling,-6,109,utah,10,40,20,50,70,regular,-6,True,net negative
+206,60,-10,2013-06-13,606,84,small market,west,54,leaves,tea,green tea,0,144,washington,20,40,10,60,84,regular,0,True,net negative
+937,32,-1,2013-06-14,482,48,major market,central,8,leaves,herbal tea,chamomile,29,80,ohio,30,40,30,70,19,decaf,29,True,net positive
+407,54,3,2013-06-15,391,67,major market,east,20,leaves,herbal tea,lemon,13,121,florida,40,40,10,80,54,decaf,13,True,net positive
+715,22,-19,2013-06-16,570,30,small market,central,7,beans,espresso,decaf espresso,11,52,wisconsin,20,40,30,60,19,decaf,11,True,net positive
+505,35,-12,2013-06-17,248,47,small market,south,11,beans,espresso,decaf espresso,8,82,new mexico,20,40,20,60,39,decaf,8,True,net positive
+775,29,-15,2013-06-18,1003,35,small market,west,8,beans,coffee,decaf irish cream,5,64,nevada,30,40,20,70,30,decaf,5,True,net positive
+563,29,-15,2013-06-19,1003,35,small market,central,8,beans,coffee,colombian,5,64,iowa,20,40,20,60,30,regular,5,True,net positive
+603,34,-3,2013-06-20,211,42,small market,east,12,beans,espresso,regular espresso,-3,76,new hampshire,30,40,0,70,45,regular,-3,True,net negative
+918,32,-1,2013-06-21,482,48,small market,south,8,beans,espresso,caffe mocha,29,80,oklahoma,20,40,30,60,19,regular,29,True,net positive
+775,0,1,2013-06-22,387,43,small market,west,0,beans,espresso,caffe latte,31,43,nevada,0,40,30,40,12,regular,31,True,net positive
+435,33,-3,2013-06-23,836,48,small market,west,9,beans,espresso,caffe latte,27,81,utah,30,40,30,70,21,regular,27,True,net positive
+573,82,-9,2013-06-24,1804,40,small market,central,25,leaves,herbal tea,lemon,-9,122,missouri,70,40,0,110,49,decaf,-9,True,net negative
+801,82,-8,2013-06-25,1804,40,small market,west,25,leaves,herbal tea,mint,-8,122,utah,70,40,0,110,48,decaf,-8,True,net negative
+417,35,-1,2013-06-26,248,47,small market,central,11,leaves,tea,darjeeling,9,82,missouri,20,40,10,60,38,regular,9,True,net positive
+636,34,-3,2013-06-27,211,42,small market,central,12,leaves,tea,earl grey,-3,76,missouri,20,40,0,60,45,regular,-3,True,net negative
+314,33,-4,2013-06-28,243,41,small market,central,12,leaves,tea,green tea,-4,74,missouri,20,40,0,60,45,regular,-4,True,net negative
+603,0,2,2013-06-29,387,43,small market,east,0,leaves,tea,green tea,32,43,new hampshire,0,40,30,40,11,regular,32,True,net positive
+435,44,3,2013-06-30,325,62,small market,west,40,leaves,tea,darjeeling,-7,106,utah,30,40,-10,70,69,regular,-7,True,net negative
+937,29,-5,2013-07-01,490,44,major market,central,8,leaves,herbal tea,chamomile,25,73,ohio,20,40,30,60,19,decaf,25,True,net positive
+330,33,-1,2013-07-02,870,49,major market,central,9,leaves,herbal tea,lemon,29,82,ohio,30,40,30,70,20,decaf,29,True,net positive
+508,46,-3,2013-07-03,422,57,major market,east,17,leaves,herbal tea,lemon,7,103,massachusetts,30,40,10,70,50,decaf,7,True,net positive
+813,30,-4,2013-07-04,882,45,major market,east,8,leaves,tea,darjeeling,26,75,florida,30,40,30,70,19,regular,26,True,net positive
+857,29,-5,2013-07-05,490,44,major market,east,8,leaves,tea,green tea,25,73,massachusetts,30,40,30,70,19,regular,25,True,net positive
+262,24,-17,2013-07-06,567,32,small market,central,7,beans,espresso,decaf espresso,13,56,wisconsin,30,40,30,70,19,decaf,13,True,net positive
+702,0,1,2013-07-07,344,43,small market,west,0,beans,espresso,caffe latte,31,43,nevada,0,40,30,40,12,regular,31,True,net positive
+435,31,-4,2013-07-08,844,46,small market,west,8,beans,espresso,caffe latte,26,77,utah,30,40,30,70,20,regular,26,True,net positive
+715,34,0,2013-07-09,863,51,small market,central,9,leaves,herbal tea,lemon,30,85,wisconsin,30,40,30,70,21,decaf,30,True,net positive
+603,39,-8,2013-07-10,250,49,small market,east,14,leaves,herbal tea,lemon,2,88,new hampshire,20,40,10,60,47,decaf,2,True,net positive
+505,31,-13,2013-07-11,1009,38,small market,south,9,leaves,herbal tea,lemon,7,69,new mexico,20,40,20,60,31,decaf,7,True,net positive
+573,38,1,2013-07-12,256,51,small market,central,12,leaves,tea,darjeeling,11,89,missouri,30,40,10,70,40,regular,11,True,net positive
+636,39,2,2013-07-13,250,49,small market,central,14,leaves,tea,green tea,2,88,missouri,30,40,0,70,47,regular,2,True,net positive
+603,0,2,2013-07-14,344,43,small market,east,0,leaves,tea,green tea,32,43,new hampshire,0,40,30,40,11,regular,32,True,net positive
+509,41,10,2013-07-15,320,66,small market,west,12,leaves,tea,darjeeling,30,107,washington,30,40,20,70,36,regular,30,True,net positive
+801,38,2,2013-07-16,256,51,small market,west,12,leaves,tea,earl grey,12,89,utah,20,40,10,60,39,regular,12,True,net positive
+509,43,8,2013-07-17,466,63,small market,west,13,leaves,tea,earl grey,28,106,washington,30,40,20,70,35,regular,28,True,net positive
+312,39,0,2013-07-18,541,51,major market,central,12,leaves,herbal tea,lemon,33,96,illinois,20,40,40,60,24,decaf,33,True,net positive
+530,39,-1,2013-07-19,541,51,major market,west,12,leaves,herbal tea,mint,32,96,california,20,40,40,60,25,decaf,32,True,net positive
+505,86,-49,2013-07-20,1698,23,small market,south,26,beans,coffee,decaf irish cream,-19,116,new mexico,110,40,10,150,49,decaf,-19,True,net negative
+318,46,5,2013-07-21,449,67,small market,south,14,beans,espresso,decaf espresso,37,120,louisiana,20,40,40,60,37,decaf,37,True,net positive
+515,31,-20,2013-07-22,1000,37,small market,central,9,beans,coffee,colombian,11,72,iowa,20,40,30,60,30,regular,11,True,net positive
+505,45,-19,2013-07-23,320,64,small market,south,41,beans,espresso,caffe mocha,1,116,new mexico,20,40,10,60,70,regular,1,True,net positive
+435,32,2,2013-07-24,833,47,small market,west,8,beans,espresso,caffe latte,33,84,utah,20,40,40,60,19,regular,33,True,net positive
+505,31,-21,2013-07-25,1000,37,small market,south,9,leaves,herbal tea,lemon,10,72,new mexico,10,40,30,50,31,decaf,10,True,net positive
+314,39,-11,2013-07-26,244,53,small market,central,12,leaves,tea,darjeeling,19,98,missouri,20,40,30,60,40,regular,19,True,net positive
+203,24,-13,2013-07-27,806,36,small market,east,6,leaves,tea,green tea,22,64,connecticut,20,40,40,60,18,regular,22,True,net positive
+603,0,7,2013-07-28,430,43,small market,east,0,leaves,tea,green tea,35,46,new hampshire,0,40,40,40,11,regular,35,True,net positive
+435,45,-29,2013-07-29,320,64,small market,west,41,leaves,tea,darjeeling,1,116,utah,10,40,20,50,70,regular,1,True,net positive
+206,60,-10,2013-07-30,606,84,small market,west,54,leaves,tea,green tea,9,153,washington,20,40,10,60,84,regular,9,True,net positive
+440,32,13,2013-07-31,482,48,major market,central,8,leaves,herbal tea,chamomile,34,85,ohio,30,40,30,70,19,decaf,34,True,net positive
+561,54,9,2013-08-01,391,67,major market,east,20,leaves,herbal tea,lemon,21,129,florida,40,40,10,80,54,decaf,21,True,net positive
+920,22,-14,2013-08-02,570,30,small market,central,7,beans,espresso,decaf espresso,14,55,wisconsin,20,40,30,60,19,decaf,14,True,net positive
+505,35,-8,2013-08-03,248,47,small market,south,11,beans,espresso,decaf espresso,13,87,new mexico,20,40,20,60,39,decaf,13,True,net positive
+702,29,-13,2013-08-04,1003,35,small market,west,8,beans,coffee,decaf irish cream,9,68,nevada,30,40,20,70,30,decaf,9,True,net positive
+515,29,-13,2013-08-05,1003,35,small market,central,8,beans,coffee,colombian,9,68,iowa,20,40,20,60,30,regular,9,True,net positive
+603,34,-4,2013-08-06,211,42,small market,east,12,beans,espresso,regular espresso,2,81,new hampshire,30,40,0,70,45,regular,2,True,net positive
+580,32,13,2013-08-07,482,48,small market,south,8,beans,espresso,caffe mocha,34,85,oklahoma,20,40,30,60,19,regular,34,True,net positive
+775,0,16,2013-08-08,387,43,small market,west,0,beans,espresso,caffe latte,34,46,nevada,0,40,30,40,12,regular,34,True,net positive
+435,33,10,2013-08-09,836,48,small market,west,9,beans,espresso,caffe latte,32,86,utah,30,40,30,70,21,regular,32,True,net positive
+314,82,-13,2013-08-10,1804,40,small market,central,25,leaves,herbal tea,lemon,-1,130,missouri,70,40,0,110,49,decaf,-1,True,net negative
+435,82,-12,2013-08-11,1804,40,small market,west,25,leaves,herbal tea,mint,0,130,utah,70,40,0,110,48,decaf,0,True,net negative
+636,35,3,2013-08-12,248,47,small market,central,11,leaves,tea,darjeeling,14,87,missouri,20,40,10,60,38,regular,14,True,net positive
+573,34,-4,2013-08-13,211,42,small market,central,12,leaves,tea,earl grey,2,81,missouri,20,40,0,60,45,regular,2,True,net positive
+314,33,-6,2013-08-14,243,41,small market,central,12,leaves,tea,green tea,1,79,missouri,20,40,0,60,45,regular,1,True,net positive
+603,0,17,2013-08-15,387,43,small market,east,0,leaves,tea,green tea,35,46,new hampshire,0,40,30,40,11,regular,35,True,net positive
+435,44,0,2013-08-16,325,62,small market,west,40,leaves,tea,darjeeling,0,113,utah,30,40,-10,70,69,regular,0,True,net negative
+614,29,7,2013-08-17,490,44,major market,central,8,leaves,herbal tea,chamomile,30,78,ohio,20,40,30,60,19,decaf,30,True,net positive
+440,33,13,2013-08-18,870,49,major market,central,9,leaves,herbal tea,lemon,34,87,ohio,30,40,30,70,20,decaf,34,True,net positive
+774,46,0,2013-08-19,422,57,major market,east,17,leaves,herbal tea,lemon,14,110,massachusetts,30,40,10,70,50,decaf,14,True,net positive
+321,30,9,2013-08-20,882,45,major market,east,8,leaves,tea,darjeeling,31,80,florida,30,40,30,70,19,regular,31,True,net positive
+774,29,7,2013-08-21,490,44,major market,east,8,leaves,tea,green tea,30,78,massachusetts,30,40,30,70,19,regular,30,True,net positive
+608,24,-11,2013-08-22,567,32,small market,central,7,beans,espresso,decaf espresso,17,60,wisconsin,30,40,30,70,19,decaf,17,True,net positive
+775,0,16,2013-08-23,344,43,small market,west,0,beans,espresso,caffe latte,34,46,nevada,0,40,30,40,12,regular,34,True,net positive
+435,31,9,2013-08-24,844,46,small market,west,8,beans,espresso,caffe latte,31,82,utah,30,40,30,70,20,regular,31,True,net positive
+715,34,15,2013-08-25,863,51,small market,central,9,leaves,herbal tea,lemon,36,91,wisconsin,30,40,30,70,21,decaf,36,True,net positive
+603,39,-7,2013-08-26,250,49,small market,east,14,leaves,herbal tea,lemon,8,94,new hampshire,20,40,10,60,47,decaf,8,True,net positive
+505,31,-10,2013-08-27,1009,38,small market,south,9,leaves,herbal tea,lemon,12,74,new mexico,20,40,20,60,31,decaf,12,True,net positive
+314,38,6,2013-08-28,256,51,small market,central,12,leaves,tea,darjeeling,17,95,missouri,30,40,10,70,40,regular,17,True,net positive
+660,39,3,2013-08-29,250,49,small market,central,14,leaves,tea,green tea,8,94,missouri,30,40,0,70,47,regular,8,True,net positive
+603,0,17,2013-08-30,344,43,small market,east,0,leaves,tea,green tea,35,46,new hampshire,0,40,30,40,11,regular,35,True,net positive
+253,41,25,2013-08-31,320,66,small market,west,12,leaves,tea,darjeeling,37,114,washington,30,40,20,70,36,regular,37,True,net positive
+435,38,8,2013-09-01,256,51,small market,west,12,leaves,tea,earl grey,18,95,utah,20,40,10,60,39,regular,18,True,net positive
+253,43,22,2013-09-02,466,63,small market,west,13,leaves,tea,earl grey,35,113,washington,30,40,20,70,35,regular,35,True,net positive
+216,51,-35,2013-09-03,503,71,major market,central,46,beans,coffee,decaf irish cream,-5,122,ohio,40,70,30,110,76,decaf,-5,True,net negative
+440,52,-34,2013-09-04,405,71,major market,central,17,beans,coffee,amaretto,26,123,ohio,40,70,60,110,45,regular,26,True,net positive
+937,43,-32,2013-09-05,419,64,major market,central,13,beans,coffee,colombian,28,107,ohio,30,70,60,100,36,regular,28,True,net positive
+774,51,-41,2013-09-06,542,65,major market,east,46,beans,espresso,caffe mocha,-11,116,massachusetts,30,70,30,100,76,regular,-11,True,net negative
+832,72,5,2013-09-07,-868,110,major market,south,23,beans,espresso,caffe latte,55,182,texas,40,70,50,110,55,regular,55,True,net positive
+863,48,-14,2013-09-08,851,70,major market,east,13,leaves,tea,green tea,46,118,florida,50,70,60,120,24,regular,46,True,net positive
+985,60,-12,2013-09-09,329,99,small market,south,18,beans,espresso,caffe mocha,58,159,louisiana,30,70,70,100,41,regular,58,True,net positive
+971,52,-33,2013-09-10,405,71,small market,west,17,beans,espresso,caffe mocha,27,123,oregon,30,70,60,100,44,regular,27,True,net positive
+253,56,-34,2013-09-11,385,70,small market,west,21,beans,espresso,caffe mocha,16,126,washington,40,70,50,110,54,regular,16,True,net positive
+405,56,-34,2013-09-12,385,70,small market,south,21,leaves,herbal tea,chamomile,16,126,oklahoma,40,70,50,110,54,decaf,16,True,net positive
+435,45,-37,2013-09-13,447,69,small market,west,14,leaves,herbal tea,lemon,23,114,utah,20,70,60,90,46,decaf,23,True,net positive
+567,52,-13,2013-09-14,509,73,major market,central,47,beans,coffee,decaf irish cream,-3,125,ohio,50,70,10,120,76,decaf,-3,True,net negative
+614,46,-8,2013-09-15,424,68,major market,central,14,beans,coffee,colombian,32,114,ohio,40,70,40,110,36,regular,32,True,net positive
+303,52,-14,2013-09-16,509,73,major market,central,47,leaves,herbal tea,lemon,-4,125,colorado,40,70,10,110,77,decaf,-4,True,net negative
+720,59,-8,2013-09-17,411,79,major market,central,19,leaves,herbal tea,mint,32,138,colorado,50,70,40,120,47,decaf,32,True,net positive
+713,59,-8,2013-09-18,411,79,major market,south,19,leaves,herbal tea,chamomile,32,138,texas,50,70,40,120,47,decaf,32,True,net positive
+718,50,-3,2013-09-19,589,73,major market,east,14,leaves,tea,green tea,47,123,new york,50,70,50,120,26,regular,47,True,net positive
+860,53,-14,2013-09-20,380,71,small market,east,17,beans,espresso,decaf espresso,26,124,connecticut,50,70,40,120,45,decaf,26,True,net positive
+435,54,2,2013-09-21,885,78,small market,west,15,beans,espresso,decaf espresso,52,132,utah,50,70,50,120,26,decaf,52,True,net positive
+505,43,-10,2013-09-22,452,66,small market,south,14,beans,coffee,colombian,20,109,new mexico,50,70,30,120,46,regular,20,True,net positive
+504,61,-9,2013-09-23,-906,86,small market,south,55,beans,espresso,caffe latte,1,147,louisiana,40,70,10,110,85,regular,1,True,net positive
+541,55,-14,2013-09-24,410,69,small market,west,20,beans,espresso,caffe latte,16,124,oregon,50,70,30,120,53,regular,16,True,net positive
+860,82,8,2013-09-25,601,102,small market,east,31,leaves,herbal tea,lemon,38,184,connecticut,60,70,30,130,64,decaf,38,True,net positive
+715,61,2,2013-09-26,613,86,small market,central,55,leaves,tea,earl grey,2,147,wisconsin,50,70,0,120,84,regular,2,True,net positive
+425,53,-1,2013-09-27,321,88,small market,west,16,leaves,tea,darjeeling,49,141,washington,30,70,50,100,39,regular,49,True,net positive
+419,47,-16,2013-09-28,521,65,major market,central,42,beans,coffee,decaf irish cream,-6,112,ohio,40,70,10,110,71,decaf,-6,True,net negative
+513,54,-11,2013-09-29,424,73,major market,central,17,beans,coffee,amaretto,29,127,ohio,50,70,40,120,44,regular,29,True,net positive
+512,67,17,2013-09-30,-1239,101,major market,south,22,beans,espresso,caffe latte,47,168,texas,50,70,30,120,54,regular,47,True,net positive
+309,54,3,2013-10-01,601,79,major market,central,15,leaves,tea,darjeeling,53,133,illinois,40,70,50,110,26,regular,53,True,net positive
+816,63,-4,2013-10-02,1075,76,small market,central,19,beans,coffee,decaf irish cream,36,139,missouri,60,70,40,130,40,decaf,36,True,net positive
+959,49,-19,2013-10-03,392,65,small market,east,16,beans,espresso,decaf espresso,21,114,connecticut,40,70,40,110,44,decaf,21,True,net positive
+435,50,-3,2013-10-04,898,73,small market,west,14,beans,espresso,decaf espresso,47,123,utah,40,70,50,110,26,decaf,47,True,net positive
+603,52,-13,2013-10-05,327,75,small market,east,16,beans,coffee,amaretto,37,127,new hampshire,40,70,50,110,38,regular,37,True,net positive
+475,55,-12,2013-10-06,627,76,small market,east,49,beans,espresso,caffe mocha,-2,131,connecticut,50,70,10,120,78,regular,-2,True,net negative
+603,49,-14,2013-10-07,335,69,small market,east,44,beans,espresso,caffe mocha,-4,118,new hampshire,40,70,10,110,73,regular,-4,True,net negative
+503,41,-19,2013-10-08,482,57,small market,west,13,beans,coffee,colombian,1,98,oregon,40,70,20,110,56,regular,1,True,net positive
+503,54,-12,2013-10-09,424,73,small market,west,17,beans,espresso,caffe mocha,28,127,oregon,50,70,40,120,45,regular,28,True,net positive
+405,65,2,2013-10-10,403,80,small market,south,24,leaves,herbal tea,chamomile,22,145,oklahoma,60,70,20,130,58,decaf,22,True,net positive
+435,52,-4,2013-10-11,327,75,small market,west,16,leaves,herbal tea,chamomile,36,127,utah,40,70,40,110,39,decaf,36,True,net positive
+801,48,-12,2013-10-12,462,74,small market,west,15,leaves,herbal tea,lemon,28,122,utah,40,70,40,110,46,decaf,28,True,net positive
+425,49,-4,2013-10-13,845,71,small market,west,13,leaves,herbal tea,lemon,46,120,washington,40,70,50,110,25,decaf,46,True,net positive
+860,50,-3,2013-10-14,898,73,small market,east,14,leaves,tea,darjeeling,47,123,connecticut,50,70,50,120,26,regular,47,True,net positive
+234,51,-37,2013-10-15,503,71,major market,central,46,beans,coffee,decaf irish cream,3,130,ohio,40,70,30,110,76,decaf,3,True,net positive
+614,52,-21,2013-10-16,405,71,major market,central,17,beans,coffee,amaretto,34,131,ohio,40,70,60,110,45,regular,34,True,net positive
+937,43,-18,2013-10-17,419,64,major market,central,13,beans,coffee,colombian,35,114,ohio,30,70,60,100,36,regular,35,True,net positive
+774,51,-46,2013-10-18,542,65,major market,east,46,beans,espresso,caffe mocha,-3,124,massachusetts,30,70,30,100,76,regular,-3,True,net negative
+682,72,32,2013-10-19,-868,110,major market,south,23,beans,espresso,caffe latte,67,194,texas,40,70,50,110,55,regular,67,True,net positive
+772,48,8,2013-10-20,851,70,major market,east,13,leaves,tea,green tea,54,126,florida,50,70,60,120,24,regular,54,True,net positive
+225,60,16,2013-10-21,329,99,small market,south,18,beans,espresso,caffe mocha,68,169,louisiana,30,70,70,100,41,regular,68,True,net positive
+541,52,-20,2013-10-22,405,71,small market,west,17,beans,espresso,caffe mocha,35,131,oregon,30,70,60,100,44,regular,35,True,net positive
+425,56,-26,2013-10-23,385,70,small market,west,21,beans,espresso,caffe mocha,24,134,washington,40,70,50,110,54,regular,24,True,net positive
+580,56,-26,2013-10-24,385,70,small market,south,21,leaves,herbal tea,chamomile,24,134,oklahoma,40,70,50,110,54,decaf,24,True,net positive
+435,45,-26,2013-10-25,447,69,small market,west,14,leaves,herbal tea,lemon,30,121,utah,20,70,60,90,46,decaf,30,True,net positive
+614,52,-14,2013-10-26,509,73,major market,central,47,beans,coffee,decaf irish cream,5,133,ohio,50,70,10,120,76,decaf,5,True,net positive
+234,46,7,2013-10-27,424,68,major market,central,14,beans,coffee,colombian,39,121,ohio,40,70,40,110,36,regular,39,True,net positive
+970,52,-16,2013-10-28,509,73,major market,central,47,leaves,herbal tea,lemon,4,133,colorado,40,70,10,110,77,decaf,4,True,net positive
+970,59,7,2013-10-29,411,79,major market,central,19,leaves,herbal tea,mint,41,147,colorado,50,70,40,120,47,decaf,41,True,net positive
+936,59,7,2013-10-30,411,79,major market,south,19,leaves,herbal tea,chamomile,41,147,texas,50,70,40,120,47,decaf,41,True,net positive
+914,50,20,2013-10-31,589,73,major market,east,14,leaves,tea,green tea,55,131,new york,50,70,50,120,26,regular,55,True,net positive
+203,53,-1,2013-11-01,380,71,small market,east,17,beans,espresso,decaf espresso,34,132,connecticut,50,70,40,120,45,decaf,34,True,net positive
+435,54,27,2013-11-02,885,78,small market,west,15,beans,espresso,decaf espresso,61,141,utah,50,70,50,120,26,decaf,61,True,net positive
+505,43,0,2013-11-03,452,66,small market,south,14,beans,coffee,colombian,27,116,new mexico,50,70,30,120,46,regular,27,True,net positive
+318,61,-9,2013-11-04,-906,86,small market,south,55,beans,espresso,caffe latte,11,157,louisiana,40,70,10,110,85,regular,11,True,net positive
+503,55,-6,2013-11-05,410,69,small market,west,20,beans,espresso,caffe latte,24,132,oregon,50,70,30,120,53,regular,24,True,net positive
+475,82,26,2013-11-06,601,102,small market,east,31,leaves,herbal tea,lemon,50,196,connecticut,60,70,30,130,64,decaf,50,True,net positive
+715,61,3,2013-11-07,613,86,small market,central,55,leaves,tea,earl grey,12,157,wisconsin,50,70,0,120,84,regular,12,True,net positive
+509,53,23,2013-11-08,321,88,small market,west,16,leaves,tea,darjeeling,58,150,washington,30,70,50,100,39,regular,58,True,net positive
+513,47,-19,2013-11-09,521,65,major market,central,42,beans,coffee,decaf irish cream,1,119,ohio,40,70,10,110,71,decaf,1,True,net positive
+234,54,3,2013-11-10,424,73,major market,central,17,beans,coffee,amaretto,37,135,ohio,50,70,40,120,44,regular,37,True,net positive
+361,67,40,2013-11-11,-1239,101,major market,south,22,beans,espresso,caffe latte,58,179,texas,50,70,30,120,54,regular,58,True,net positive
+630,54,29,2013-11-12,601,79,major market,central,15,leaves,tea,darjeeling,62,142,illinois,40,70,50,110,26,regular,62,True,net positive
+636,63,13,2013-11-13,1075,76,small market,central,19,beans,coffee,decaf irish cream,45,148,missouri,60,70,40,130,40,decaf,45,True,net positive
+203,49,-9,2013-11-14,392,65,small market,east,16,beans,espresso,decaf espresso,28,121,connecticut,40,70,40,110,44,decaf,28,True,net positive
+435,50,20,2013-11-15,898,73,small market,west,14,beans,espresso,decaf espresso,55,131,utah,40,70,50,110,26,decaf,55,True,net positive
+603,52,5,2013-11-16,327,75,small market,east,16,beans,coffee,amaretto,45,135,new hampshire,40,70,50,110,38,regular,45,True,net positive
+203,55,-13,2013-11-17,627,76,small market,east,49,beans,espresso,caffe mocha,7,140,connecticut,50,70,10,120,78,regular,7,True,net positive
+603,49,-16,2013-11-18,335,69,small market,east,44,beans,espresso,caffe mocha,4,126,new hampshire,40,70,10,110,73,regular,4,True,net positive
+541,41,-19,2013-11-19,482,57,small market,west,13,beans,coffee,colombian,7,104,oregon,40,70,20,110,56,regular,7,True,net positive
+503,54,2,2013-11-20,424,73,small market,west,17,beans,espresso,caffe mocha,36,135,oregon,50,70,40,120,45,regular,36,True,net positive
+405,65,13,2013-11-21,403,80,small market,south,24,leaves,herbal tea,chamomile,32,155,oklahoma,60,70,20,130,58,decaf,32,True,net positive
+435,52,13,2013-11-22,327,75,small market,west,16,leaves,herbal tea,chamomile,44,135,utah,40,70,40,110,39,decaf,44,True,net positive
+435,48,2,2013-11-23,462,74,small market,west,15,leaves,herbal tea,lemon,36,130,utah,40,70,40,110,46,decaf,36,True,net positive
+425,49,18,2013-11-24,845,71,small market,west,13,leaves,herbal tea,lemon,54,128,washington,40,70,50,110,25,decaf,54,True,net positive
+959,50,20,2013-11-25,898,73,small market,east,14,leaves,tea,darjeeling,55,131,connecticut,50,70,50,120,26,regular,55,True,net positive
+937,21,-14,2013-11-26,480,32,major market,central,5,leaves,herbal tea,chamomile,16,53,ohio,0,30,30,30,16,decaf,16,True,net positive
+513,27,-10,2013-11-27,859,39,major market,central,7,leaves,herbal tea,lemon,20,66,ohio,10,30,30,40,19,decaf,20,True,net positive
+850,56,-4,2013-11-28,385,70,major market,east,21,leaves,herbal tea,lemon,16,126,florida,30,30,20,60,54,decaf,16,True,net positive
+781,54,-7,2013-11-29,404,66,major market,east,20,leaves,herbal tea,lemon,13,120,massachusetts,30,30,20,60,53,decaf,13,True,net positive
+413,21,-15,2013-11-30,480,32,major market,east,5,leaves,tea,green tea,15,53,massachusetts,20,30,30,50,17,regular,15,True,net positive
+505,39,-6,2013-12-01,244,53,small market,south,12,beans,espresso,decaf espresso,14,92,new mexico,20,30,20,50,39,decaf,14,True,net positive
+702,23,-13,2013-12-02,800,35,small market,west,6,beans,espresso,decaf espresso,17,58,nevada,10,30,30,40,18,decaf,17,True,net positive
+563,21,-15,2013-12-03,846,31,small market,central,5,beans,coffee,amaretto,15,52,iowa,10,30,30,40,16,regular,15,True,net positive
+603,25,-22,2013-12-04,209,31,small market,east,9,beans,espresso,regular espresso,-12,56,new hampshire,10,30,10,40,43,regular,-12,True,net negative
+405,21,-15,2013-12-05,480,32,small market,south,5,beans,espresso,caffe mocha,15,53,oklahoma,0,30,30,30,17,regular,15,True,net positive
+702,0,2,2013-12-06,430,43,small market,west,0,beans,espresso,caffe latte,32,43,nevada,0,30,30,30,11,regular,32,True,net positive
+603,34,-23,2013-12-07,240,43,small market,east,12,leaves,herbal tea,lemon,-3,77,new hampshire,10,30,20,40,46,decaf,-3,True,net negative
+505,21,-16,2013-12-08,846,31,small market,south,5,leaves,herbal tea,chamomile,14,52,new mexico,10,30,30,40,17,decaf,14,True,net positive
+971,25,-13,2013-12-09,820,36,small market,west,7,leaves,herbal tea,chamomile,17,61,oregon,10,30,30,40,19,decaf,17,True,net positive
+314,34,-13,2013-12-10,240,43,small market,central,12,leaves,tea,green tea,-3,77,missouri,10,30,10,40,46,regular,-3,True,net negative
+603,21,-16,2013-12-11,846,31,small market,east,5,leaves,tea,darjeeling,14,52,new hampshire,20,30,30,50,17,regular,14,True,net positive
+435,39,-6,2013-12-12,244,53,small market,west,12,leaves,tea,earl grey,14,92,utah,10,30,20,40,39,regular,14,True,net positive
+360,46,1,2013-12-13,449,67,small market,west,14,leaves,tea,earl grey,31,113,washington,20,30,30,50,36,regular,31,True,net positive
+775,22,-3,2013-12-14,802,34,small market,west,6,beans,espresso,decaf espresso,17,56,nevada,20,30,20,50,17,decaf,17,True,net positive
+505,34,6,2013-12-15,-522,42,small market,south,12,beans,espresso,caffe latte,-4,76,new mexico,20,30,-10,50,46,regular,-4,True,net negative
+253,22,-9,2013-12-16,570,30,small market,west,7,beans,espresso,caffe latte,11,52,washington,20,30,20,50,19,regular,11,True,net positive
+603,33,-4,2013-12-17,243,41,small market,east,12,leaves,herbal tea,lemon,-4,74,new hampshire,20,30,0,50,45,decaf,-4,True,net negative
+505,29,-5,2013-12-18,1003,35,small market,south,8,leaves,herbal tea,lemon,5,64,new mexico,20,30,10,50,30,decaf,5,True,net positive
+503,25,-1,2013-12-19,823,38,small market,west,7,leaves,herbal tea,chamomile,19,63,oregon,20,30,20,50,19,decaf,19,True,net positive
+603,15,-12,2013-12-20,848,24,small market,east,4,leaves,tea,darjeeling,8,39,new hampshire,10,30,20,40,16,regular,8,True,net positive
+541,32,-2,2013-12-21,482,48,small market,west,8,leaves,tea,darjeeling,28,80,oregon,20,30,30,50,20,regular,28,True,net positive
+435,35,-1,2013-12-22,248,47,small market,west,11,leaves,tea,earl grey,9,82,utah,20,30,10,50,38,regular,9,True,net positive
+801,34,-3,2013-12-23,211,42,small market,west,12,leaves,tea,green tea,-3,76,utah,20,30,0,50,45,regular,-3,True,net negative
+772,24,-8,2013-12-24,567,32,major market,east,7,leaves,herbal tea,chamomile,12,56,florida,10,30,20,40,20,decaf,12,True,net positive
+505,38,12,2013-12-25,256,51,small market,south,12,beans,espresso,decaf espresso,12,89,new mexico,30,30,0,60,39,decaf,12,True,net positive
+702,23,-3,2013-12-26,807,35,small market,west,6,beans,espresso,decaf espresso,17,58,nevada,20,30,20,50,18,decaf,17,True,net positive
+641,16,-10,2013-12-27,851,25,small market,central,4,beans,coffee,amaretto,10,41,iowa,10,30,20,40,15,regular,10,True,net positive
+563,31,-2,2013-12-28,1009,38,small market,central,9,beans,coffee,colombian,8,69,iowa,30,30,10,60,30,regular,8,True,net positive
+603,20,-16,2013-12-29,218,25,small market,east,7,beans,espresso,regular espresso,-16,45,new hampshire,10,30,0,40,41,regular,-16,True,net negative
+580,29,4,2013-12-30,490,44,small market,south,8,beans,espresso,caffe mocha,24,73,oklahoma,20,30,20,50,20,regular,24,True,net positive
+253,24,-7,2013-12-31,567,32,small market,west,7,beans,espresso,caffe latte,13,56,washington,20,30,20,50,19,regular,13,True,net positive
+541,24,-1,2014-01-01,829,36,small market,west,6,leaves,herbal tea,chamomile,19,60,oregon,20,30,20,50,17,decaf,19,True,net positive
+603,16,-10,2014-01-02,851,25,small market,east,4,leaves,tea,darjeeling,10,41,new hampshire,10,30,20,40,15,regular,10,True,net positive
+971,29,-5,2014-01-03,490,44,small market,west,8,leaves,tea,darjeeling,25,73,oregon,20,30,30,50,19,regular,25,True,net positive
+937,21,-6,2014-01-04,480,32,major market,central,5,leaves,herbal tea,chamomile,19,56,ohio,0,30,30,30,16,decaf,19,True,net positive
+937,27,0,2014-01-05,859,39,major market,central,7,leaves,herbal tea,lemon,24,70,ohio,10,30,30,40,19,decaf,24,True,net positive
+786,56,4,2014-01-06,385,70,major market,east,21,leaves,herbal tea,lemon,24,134,florida,30,30,20,60,54,decaf,24,True,net positive
+339,54,-1,2014-01-07,404,66,major market,east,20,leaves,herbal tea,lemon,21,128,massachusetts,30,30,20,60,53,decaf,21,True,net positive
+781,21,-8,2014-01-08,480,32,major market,east,5,leaves,tea,green tea,18,56,massachusetts,20,30,30,50,17,regular,18,True,net positive
+505,39,1,2014-01-09,244,53,small market,south,12,beans,espresso,decaf espresso,20,98,new mexico,20,30,20,50,39,decaf,20,True,net positive
+775,23,-5,2014-01-10,800,35,small market,west,6,beans,espresso,decaf espresso,21,62,nevada,10,30,30,40,18,decaf,21,True,net positive
+515,21,-8,2014-01-11,846,31,small market,central,5,beans,coffee,amaretto,18,55,iowa,10,30,30,40,16,regular,18,True,net positive
+603,25,-28,2014-01-12,209,31,small market,east,9,beans,espresso,regular espresso,-8,60,new hampshire,10,30,10,40,43,regular,-8,True,net negative
+580,21,-8,2014-01-13,480,32,small market,south,5,beans,espresso,caffe mocha,18,56,oklahoma,0,30,30,30,17,regular,18,True,net positive
+702,0,17,2014-01-14,430,43,small market,west,0,beans,espresso,caffe latte,35,46,nevada,0,30,30,30,11,regular,35,True,net positive
+603,34,-24,2014-01-15,240,43,small market,east,12,leaves,herbal tea,lemon,2,82,new hampshire,10,30,20,40,46,decaf,2,True,net positive
+505,21,-9,2014-01-16,846,31,small market,south,5,leaves,herbal tea,chamomile,17,55,new mexico,10,30,30,40,17,decaf,17,True,net positive
+971,25,-5,2014-01-17,820,36,small market,west,7,leaves,herbal tea,chamomile,21,65,oregon,10,30,30,40,19,decaf,21,True,net positive
+314,34,-14,2014-01-18,240,43,small market,central,12,leaves,tea,green tea,2,82,missouri,10,30,10,40,46,regular,2,True,net positive
+603,21,-9,2014-01-19,846,31,small market,east,5,leaves,tea,darjeeling,17,55,new hampshire,20,30,30,50,17,regular,17,True,net positive
+435,39,1,2014-01-20,244,53,small market,west,12,leaves,tea,earl grey,20,98,utah,10,30,20,40,39,regular,20,True,net positive
+509,46,16,2014-01-21,449,67,small market,west,14,leaves,tea,earl grey,38,120,washington,20,30,30,50,36,regular,38,True,net positive
+775,22,5,2014-01-22,802,34,small market,west,6,beans,espresso,decaf espresso,21,60,nevada,20,30,20,50,17,decaf,21,True,net positive
+505,34,4,2014-01-23,-522,42,small market,south,12,beans,espresso,caffe latte,1,81,new mexico,20,30,-10,50,46,regular,1,True,net positive
+425,22,-4,2014-01-24,570,30,small market,west,7,beans,espresso,caffe latte,14,55,washington,20,30,20,50,19,regular,14,True,net positive
+603,33,-6,2014-01-25,243,41,small market,east,12,leaves,herbal tea,lemon,1,79,new hampshire,20,30,0,50,45,decaf,1,True,net positive
+505,29,-3,2014-01-26,1003,35,small market,south,8,leaves,herbal tea,lemon,9,68,new mexico,20,30,10,50,30,decaf,9,True,net positive
+541,25,8,2014-01-27,823,38,small market,west,7,leaves,herbal tea,chamomile,23,67,oregon,20,30,20,50,19,decaf,23,True,net positive
+603,15,-8,2014-01-28,848,24,small market,east,4,leaves,tea,darjeeling,11,42,new hampshire,10,30,20,40,16,regular,11,True,net positive
+503,32,12,2014-01-29,482,48,small market,west,8,leaves,tea,darjeeling,33,85,oregon,20,30,30,50,20,regular,33,True,net positive
+435,35,3,2014-01-30,248,47,small market,west,11,leaves,tea,earl grey,14,87,utah,20,30,10,50,38,regular,14,True,net positive
+435,34,-4,2014-01-31,211,42,small market,west,12,leaves,tea,green tea,2,81,utah,20,30,0,50,45,regular,2,True,net positive
+904,24,-2,2014-02-01,567,32,major market,east,7,leaves,herbal tea,chamomile,16,60,florida,10,30,20,40,20,decaf,16,True,net positive
+505,38,18,2014-02-02,256,51,small market,south,12,beans,espresso,decaf espresso,18,95,new mexico,30,30,0,60,39,decaf,18,True,net positive
+775,23,5,2014-02-03,807,35,small market,west,6,beans,espresso,decaf espresso,21,62,nevada,20,30,20,50,18,decaf,21,True,net positive
+563,16,-5,2014-02-04,851,25,small market,central,4,beans,coffee,amaretto,13,44,iowa,10,30,20,40,15,regular,13,True,net positive
+641,31,2,2014-02-05,1009,38,small market,central,9,beans,coffee,colombian,13,74,iowa,30,30,10,60,30,regular,13,True,net positive
+603,20,-24,2014-02-06,218,25,small market,east,7,beans,espresso,regular espresso,-13,48,new hampshire,10,30,0,40,41,regular,-13,True,net negative
+580,29,16,2014-02-07,490,44,small market,south,8,beans,espresso,caffe mocha,29,78,oklahoma,20,30,20,50,20,regular,29,True,net positive
+206,24,-1,2014-02-08,567,32,small market,west,7,beans,espresso,caffe latte,17,60,washington,20,30,20,50,19,regular,17,True,net positive
+503,24,8,2014-02-09,829,36,small market,west,6,leaves,herbal tea,chamomile,23,64,oregon,20,30,20,50,17,decaf,23,True,net positive
+603,16,-5,2014-02-10,851,25,small market,east,4,leaves,tea,darjeeling,13,44,new hampshire,10,30,20,40,15,regular,13,True,net positive
+541,29,7,2014-02-11,490,44,small market,west,8,leaves,tea,darjeeling,30,78,oregon,20,30,30,50,19,regular,30,True,net positive
+915,76,-2,2014-02-12,580,111,major market,south,21,beans,espresso,decaf espresso,78,187,texas,40,80,80,120,33,decaf,78,True,net positive
+713,52,-44,2014-02-13,405,71,major market,south,17,leaves,herbal tea,chamomile,26,123,texas,30,80,70,110,45,decaf,26,True,net positive
+217,76,-2,2014-02-14,580,111,major market,central,21,leaves,tea,darjeeling,78,187,illinois,50,80,80,130,33,regular,78,True,net positive
+847,72,5,2014-02-15,650,110,major market,central,23,leaves,tea,earl grey,55,182,illinois,50,80,50,130,55,regular,55,True,net positive
+660,65,-35,2014-02-16,1053,77,small market,central,20,beans,coffee,decaf irish cream,35,142,missouri,50,80,70,130,42,decaf,35,True,net positive
+660,32,-52,2014-02-17,833,47,small market,central,8,beans,espresso,decaf espresso,28,79,missouri,30,80,80,110,19,decaf,28,True,net positive
+405,82,5,2014-02-18,788,123,small market,south,27,beans,espresso,decaf espresso,65,205,oklahoma,50,80,60,130,58,decaf,65,True,net positive
+715,56,-35,2014-02-19,385,70,small market,central,21,beans,coffee,amaretto,15,126,wisconsin,40,80,50,120,55,regular,15,True,net positive
+405,91,6,2014-02-20,-1785,127,small market,south,28,beans,espresso,caffe latte,76,218,oklahoma,50,80,70,130,51,regular,76,True,net positive
+414,60,-23,2014-02-21,329,99,small market,central,18,leaves,herbal tea,chamomile,57,159,wisconsin,40,80,80,120,42,decaf,57,True,net positive
+419,55,-24,2014-02-22,410,69,major market,central,20,beans,espresso,decaf espresso,16,124,ohio,70,80,40,150,53,decaf,16,True,net positive
+330,59,-17,2014-02-23,411,79,major market,central,19,beans,coffee,amaretto,33,138,ohio,50,80,50,130,46,regular,33,True,net positive
+650,75,19,2014-02-24,659,114,major market,west,24,leaves,tea,green tea,59,189,california,50,80,40,130,55,regular,59,True,net positive
+314,69,-2,2014-02-25,1060,81,small market,central,21,beans,coffee,decaf irish cream,38,150,missouri,60,80,40,140,43,decaf,38,True,net positive
+503,46,-18,2014-02-26,424,68,small market,west,14,beans,coffee,decaf irish cream,32,114,oregon,50,80,50,130,36,decaf,32,True,net positive
+206,75,5,2014-02-27,1063,89,small market,west,23,beans,espresso,decaf espresso,45,164,washington,70,80,40,150,44,decaf,45,True,net positive
+203,61,-8,2014-02-28,613,86,small market,east,55,beans,espresso,caffe mocha,2,147,connecticut,60,80,10,140,84,regular,2,True,net positive
+225,47,-16,2014-03-01,834,68,small market,south,13,beans,coffee,colombian,44,115,louisiana,50,80,60,130,24,regular,44,True,net positive
+541,52,-14,2014-03-02,509,73,small market,west,47,beans,coffee,amaretto,-4,125,oregon,60,80,10,140,77,regular,-4,True,net negative
+435,53,-23,2014-03-03,380,71,small market,west,17,beans,coffee,colombian,27,124,utah,60,80,50,140,44,regular,27,True,net positive
+503,59,-17,2014-03-04,411,79,small market,west,19,beans,espresso,caffe mocha,33,138,oregon,50,80,50,130,46,regular,33,True,net positive
+920,53,-2,2014-03-05,321,88,small market,central,16,leaves,herbal tea,chamomile,48,141,wisconsin,50,80,50,130,40,decaf,48,True,net positive
+959,54,-9,2014-03-06,885,78,small market,east,15,leaves,tea,darjeeling,51,132,connecticut,50,80,60,130,27,regular,51,True,net positive
+740,46,-34,2014-03-07,422,57,major market,central,17,beans,espresso,decaf espresso,6,103,ohio,50,80,40,130,51,decaf,6,True,net positive
+630,67,7,2014-03-08,677,101,major market,central,22,leaves,tea,earl grey,47,168,illinois,50,80,40,130,54,regular,47,True,net positive
+518,54,-8,2014-03-09,601,79,major market,east,15,leaves,tea,green tea,52,133,new york,50,80,60,130,27,regular,52,True,net positive
+213,67,-3,2014-03-10,677,101,major market,west,22,leaves,tea,green tea,47,168,california,40,80,50,120,54,regular,47,True,net positive
+503,41,-25,2014-03-11,435,60,small market,west,13,beans,coffee,decaf irish cream,25,101,oregon,40,80,50,120,35,decaf,25,True,net positive
+715,65,-8,2014-03-12,403,80,small market,central,24,beans,coffee,amaretto,22,145,wisconsin,60,80,30,140,58,regular,22,True,net positive
+503,47,-27,2014-03-13,521,65,small market,west,42,beans,coffee,amaretto,-7,112,oregon,50,80,20,130,72,regular,-7,True,net negative
+801,49,-29,2014-03-14,392,65,small market,west,16,beans,coffee,colombian,21,114,utah,50,80,50,130,44,regular,21,True,net positive
+509,65,-7,2014-03-15,403,80,small market,west,24,beans,espresso,caffe mocha,23,145,washington,60,80,30,140,57,regular,23,True,net positive
+985,68,-4,2014-03-16,619,85,small market,south,25,leaves,herbal tea,lemon,26,153,louisiana,60,80,30,140,59,decaf,26,True,net positive
+432,76,36,2014-03-17,580,111,major market,south,21,beans,espresso,decaf espresso,90,199,texas,40,80,80,120,33,decaf,90,True,net positive
+325,52,-31,2014-03-18,405,71,major market,south,17,leaves,herbal tea,chamomile,34,131,texas,30,80,70,110,45,decaf,34,True,net positive
+815,76,36,2014-03-19,580,111,major market,central,21,leaves,tea,darjeeling,90,199,illinois,50,80,80,130,33,regular,90,True,net positive
+815,72,32,2014-03-20,650,110,major market,central,23,leaves,tea,earl grey,67,194,illinois,50,80,50,130,55,regular,67,True,net positive
+636,65,-18,2014-03-21,1053,77,small market,central,20,beans,coffee,decaf irish cream,44,151,missouri,50,80,70,130,42,decaf,44,True,net positive
+417,32,-38,2014-03-22,833,47,small market,central,8,beans,espresso,decaf espresso,33,84,missouri,30,80,80,110,19,decaf,33,True,net positive
+405,82,36,2014-03-23,788,123,small market,south,27,beans,espresso,decaf espresso,78,218,oklahoma,50,80,60,130,58,decaf,78,True,net positive
+414,56,-28,2014-03-24,385,70,small market,central,21,beans,coffee,amaretto,23,134,wisconsin,40,80,50,120,55,regular,23,True,net positive
+405,91,43,2014-03-25,-1785,127,small market,south,28,beans,espresso,caffe latte,90,232,oklahoma,50,80,70,130,51,regular,90,True,net positive
+715,60,5,2014-03-26,329,99,small market,central,18,leaves,herbal tea,chamomile,67,169,wisconsin,40,80,80,120,42,decaf,67,True,net positive
+937,55,-16,2014-03-27,410,69,major market,central,20,beans,espresso,decaf espresso,24,132,ohio,70,80,40,150,53,decaf,24,True,net positive
+234,59,-1,2014-03-28,411,79,major market,central,19,beans,coffee,amaretto,42,147,ohio,50,80,50,130,46,regular,42,True,net positive
+209,75,48,2014-03-29,659,114,major market,west,24,leaves,tea,green tea,71,201,california,50,80,40,130,55,regular,71,True,net positive
+417,69,16,2014-03-30,1060,81,small market,central,21,beans,coffee,decaf irish cream,48,160,missouri,60,80,40,140,43,decaf,48,True,net positive
+503,46,-3,2014-03-31,424,68,small market,west,14,beans,coffee,decaf irish cream,39,121,oregon,50,80,50,130,36,decaf,39,True,net positive
+425,75,27,2014-04-01,1063,89,small market,west,23,beans,espresso,decaf espresso,56,175,washington,70,80,40,150,44,decaf,56,True,net positive
+475,61,-7,2014-04-02,613,86,small market,east,55,beans,espresso,caffe mocha,12,157,connecticut,60,80,10,140,84,regular,12,True,net positive
+318,47,5,2014-04-03,834,68,small market,south,13,beans,coffee,colombian,52,123,louisiana,50,80,60,130,24,regular,52,True,net positive
+971,52,-16,2014-04-04,509,73,small market,west,47,beans,coffee,amaretto,4,133,oregon,60,80,10,140,77,regular,4,True,net positive
+435,53,-10,2014-04-05,380,71,small market,west,17,beans,coffee,colombian,35,132,utah,60,80,50,140,44,regular,35,True,net positive
+541,59,-1,2014-04-06,411,79,small market,west,19,beans,espresso,caffe mocha,42,147,oregon,50,80,50,130,46,regular,42,True,net positive
+262,53,21,2014-04-07,321,88,small market,central,16,leaves,herbal tea,chamomile,57,150,wisconsin,50,80,50,130,40,decaf,57,True,net positive
+860,54,16,2014-04-08,885,78,small market,east,15,leaves,tea,darjeeling,60,141,connecticut,50,80,60,130,27,regular,60,True,net positive
+419,46,-31,2014-04-09,422,57,major market,central,17,beans,espresso,decaf espresso,13,110,ohio,50,80,40,130,51,decaf,13,True,net positive
+708,67,30,2014-04-10,677,101,major market,central,22,leaves,tea,earl grey,58,179,illinois,50,80,40,130,54,regular,58,True,net positive
+585,54,17,2014-04-11,601,79,major market,east,15,leaves,tea,green tea,61,142,new york,50,80,60,130,27,regular,61,True,net positive
+510,67,20,2014-04-12,677,101,major market,west,22,leaves,tea,green tea,58,179,california,40,80,50,120,54,regular,58,True,net positive
+541,41,-13,2014-04-13,435,60,small market,west,13,beans,coffee,decaf irish cream,32,108,oregon,40,80,50,120,35,decaf,32,True,net positive
+920,65,3,2014-04-14,403,80,small market,central,24,beans,coffee,amaretto,32,155,wisconsin,60,80,30,140,58,regular,32,True,net positive
+541,47,-30,2014-04-15,521,65,small market,west,42,beans,coffee,amaretto,0,119,oregon,50,80,20,130,72,regular,0,True,net negative
+435,49,-19,2014-04-16,392,65,small market,west,16,beans,coffee,colombian,28,121,utah,50,80,50,130,44,regular,28,True,net positive
+509,65,4,2014-04-17,403,80,small market,west,24,beans,espresso,caffe mocha,33,155,washington,60,80,30,140,57,regular,33,True,net positive
+318,68,9,2014-04-18,619,85,small market,south,25,leaves,herbal tea,lemon,36,163,louisiana,60,80,30,140,59,decaf,36,True,net positive
+214,39,-54,2014-04-19,541,51,major market,south,12,beans,coffee,decaf irish cream,26,90,texas,40,90,80,130,25,decaf,26,True,net positive
+936,239,-155,2014-04-20,1246,281,major market,south,74,beans,coffee,colombian,185,520,texas,350,420,340,770,96,regular,185,True,net positive
+210,123,33,2014-04-21,915,179,major market,south,34,beans,espresso,caffe mocha,133,302,texas,70,120,100,190,46,regular,133,True,net positive
+225,48,-35,2014-04-22,851,70,small market,south,13,beans,coffee,decaf irish cream,45,118,louisiana,70,90,80,160,25,decaf,45,True,net positive
+225,48,-33,2014-04-23,829,71,small market,south,13,beans,coffee,colombian,47,119,louisiana,70,90,80,160,24,regular,47,True,net positive
+505,45,-57,2014-04-24,447,69,small market,south,14,beans,coffee,colombian,23,114,new mexico,50,110,80,160,46,regular,23,True,net positive
+918,90,-66,2014-04-25,572,115,small market,south,29,beans,coffee,colombian,74,205,oklahoma,130,160,140,290,41,regular,74,True,net positive
+505,25,-22,2014-04-26,-466,31,small market,south,9,beans,espresso,caffe latte,-12,56,new mexico,10,20,10,30,43,regular,-12,True,net negative
+225,103,-23,2014-04-27,564,133,small market,south,33,leaves,herbal tea,chamomile,87,236,louisiana,80,130,110,210,46,decaf,87,True,net positive
+504,79,-26,2014-04-28,593,98,small market,south,30,leaves,herbal tea,lemon,34,177,louisiana,60,90,60,150,64,decaf,34,True,net positive
+405,96,-23,2014-04-29,683,134,small market,south,87,leaves,herbal tea,lemon,17,230,oklahoma,80,120,40,200,117,decaf,17,True,net positive
+956,225,-56,2014-04-30,1272,265,major market,south,69,beans,coffee,colombian,174,490,texas,260,320,230,580,91,regular,174,True,net positive
+817,75,19,2014-05-01,-1050,114,major market,south,24,beans,espresso,caffe latte,59,189,texas,50,90,40,140,55,regular,59,True,net positive
+409,118,27,2014-05-02,930,172,major market,south,33,beans,espresso,caffe mocha,127,290,texas,90,130,100,220,45,regular,127,True,net positive
+918,78,22,2014-05-03,798,119,small market,south,25,beans,espresso,decaf espresso,62,197,oklahoma,60,90,40,150,57,decaf,62,True,net positive
+918,88,-19,2014-05-04,561,112,small market,south,29,beans,coffee,colombian,71,200,oklahoma,100,130,90,230,41,regular,71,True,net positive
+918,102,29,2014-05-05,-2003,143,small market,south,31,beans,espresso,caffe latte,89,245,oklahoma,80,100,60,180,54,regular,89,True,net positive
+337,101,5,2014-05-06,552,130,small market,south,33,leaves,herbal tea,chamomile,85,231,louisiana,90,120,80,210,45,decaf,85,True,net positive
+505,15,-1,2014-05-07,848,24,small market,south,4,leaves,herbal tea,chamomile,9,39,new mexico,10,20,10,30,15,decaf,9,True,net positive
+337,82,-2,2014-05-08,601,102,small market,south,31,leaves,herbal tea,lemon,38,184,louisiana,70,100,40,170,64,decaf,38,True,net positive
+580,94,-5,2014-05-09,694,130,small market,south,85,leaves,herbal tea,lemon,15,224,oklahoma,80,120,20,200,115,decaf,15,True,net positive
+972,241,-52,2014-05-10,1321,284,major market,south,74,beans,coffee,colombian,188,525,texas,280,340,240,620,96,regular,188,True,net positive
+972,123,23,2014-05-11,959,179,major market,south,34,beans,espresso,caffe mocha,133,302,texas,90,140,110,230,46,regular,133,True,net positive
+505,92,-24,2014-05-12,1898,68,small market,south,28,beans,coffee,decaf irish cream,16,160,new mexico,100,90,40,190,52,decaf,16,True,net positive
+405,88,12,2014-05-13,817,133,small market,south,29,beans,espresso,decaf espresso,72,221,oklahoma,60,110,60,170,61,decaf,72,True,net positive
+318,49,-24,2014-05-14,845,71,small market,south,13,beans,coffee,colombian,46,120,louisiana,50,90,70,140,25,regular,46,True,net positive
+505,48,-23,2014-05-15,462,74,small market,south,15,beans,coffee,colombian,27,122,new mexico,50,90,50,140,47,regular,27,True,net positive
+405,81,-34,2014-05-16,551,104,small market,south,26,beans,coffee,colombian,66,185,oklahoma,90,130,100,220,38,regular,66,True,net positive
+505,20,-5,2014-05-17,-598,25,small market,south,7,beans,espresso,caffe latte,-15,45,new mexico,10,20,-10,30,40,regular,-15,True,net negative
+918,134,31,2014-05-18,-2248,186,small market,south,41,beans,espresso,caffe latte,121,320,oklahoma,100,140,90,240,65,regular,121,True,net positive
+225,94,7,2014-05-19,540,120,small market,south,31,leaves,herbal tea,chamomile,77,214,louisiana,80,110,70,190,43,decaf,77,True,net positive
+505,16,-1,2014-05-20,851,25,small market,south,4,leaves,herbal tea,chamomile,9,41,new mexico,10,20,10,30,16,decaf,9,True,net positive
+580,105,-10,2014-05-21,716,145,small market,south,95,leaves,herbal tea,lemon,20,250,oklahoma,90,140,30,230,125,decaf,20,True,net positive
+281,39,-41,2014-05-22,541,51,major market,south,12,beans,coffee,decaf irish cream,32,96,texas,40,90,80,130,25,decaf,32,True,net positive
+432,239,-65,2014-05-23,1246,281,major market,south,74,beans,coffee,colombian,219,554,texas,350,420,340,770,96,regular,219,True,net positive
+817,123,97,2014-05-24,915,179,major market,south,34,beans,espresso,caffe mocha,153,322,texas,70,120,100,190,46,regular,153,True,net positive
+985,48,-13,2014-05-25,851,70,small market,south,13,beans,coffee,decaf irish cream,53,126,louisiana,70,90,80,160,25,decaf,53,True,net positive
+337,48,-10,2014-05-26,829,71,small market,south,13,beans,coffee,colombian,55,127,louisiana,70,90,80,160,24,regular,55,True,net positive
+505,45,-46,2014-05-27,447,69,small market,south,14,beans,coffee,colombian,30,121,new mexico,50,110,80,160,46,regular,30,True,net positive
+918,90,-30,2014-05-28,572,115,small market,south,29,beans,coffee,colombian,87,218,oklahoma,130,160,140,290,41,regular,87,True,net positive
+505,25,-28,2014-05-29,-466,31,small market,south,9,beans,espresso,caffe latte,-8,60,new mexico,10,20,10,30,43,regular,-8,True,net negative
+318,103,19,2014-05-30,564,133,small market,south,33,leaves,herbal tea,chamomile,102,251,louisiana,80,130,110,210,46,decaf,102,True,net positive
+225,79,-10,2014-05-31,593,98,small market,south,30,leaves,herbal tea,lemon,46,189,louisiana,60,90,60,150,64,decaf,46,True,net positive
+918,96,-15,2014-06-01,683,134,small market,south,87,leaves,herbal tea,lemon,32,245,oklahoma,80,120,40,200,117,decaf,32,True,net positive
+432,225,28,2014-06-02,1272,265,major market,south,69,beans,coffee,colombian,206,522,texas,260,320,230,580,91,regular,206,True,net positive
+806,75,48,2014-06-03,-1050,114,major market,south,24,beans,espresso,caffe latte,71,201,texas,50,90,40,140,55,regular,71,True,net positive
+915,118,88,2014-06-04,930,172,major market,south,33,beans,espresso,caffe mocha,146,309,texas,90,130,100,220,45,regular,146,True,net positive
+580,78,52,2014-06-05,798,119,small market,south,25,beans,espresso,decaf espresso,75,210,oklahoma,60,90,40,150,57,decaf,75,True,net positive
+918,88,15,2014-06-06,561,112,small market,south,29,beans,coffee,colombian,84,213,oklahoma,100,130,90,230,41,regular,84,True,net positive
+405,102,72,2014-06-07,-2003,143,small market,south,31,beans,espresso,caffe latte,105,261,oklahoma,80,100,60,180,54,regular,105,True,net positive
+985,101,46,2014-06-08,552,130,small market,south,33,leaves,herbal tea,chamomile,100,246,louisiana,90,120,80,210,45,decaf,100,True,net positive
+505,15,3,2014-06-09,848,24,small market,south,4,leaves,herbal tea,chamomile,12,42,new mexico,10,20,10,30,15,decaf,12,True,net positive
+337,82,16,2014-06-10,601,102,small market,south,31,leaves,herbal tea,lemon,50,196,louisiana,70,100,40,170,64,decaf,50,True,net positive
+405,94,2,2014-06-11,694,130,small market,south,85,leaves,herbal tea,lemon,30,239,oklahoma,80,120,20,200,115,decaf,30,True,net positive
+409,241,39,2014-06-12,1321,284,major market,south,74,beans,coffee,colombian,222,559,texas,280,340,240,620,96,regular,222,True,net positive
+254,123,87,2014-06-13,959,179,major market,south,34,beans,espresso,caffe mocha,153,322,texas,90,140,110,230,46,regular,153,True,net positive
+505,92,-16,2014-06-14,1898,68,small market,south,28,beans,coffee,decaf irish cream,27,171,new mexico,100,90,40,190,52,decaf,27,True,net positive
+918,88,47,2014-06-15,817,133,small market,south,29,beans,espresso,decaf espresso,87,236,oklahoma,60,110,60,170,61,decaf,87,True,net positive
+985,49,-2,2014-06-16,845,71,small market,south,13,beans,coffee,colombian,54,128,louisiana,50,90,70,140,25,regular,54,True,net positive
+505,48,-10,2014-06-17,462,74,small market,south,15,beans,coffee,colombian,35,130,new mexico,50,90,50,140,47,regular,35,True,net positive
+580,81,-2,2014-06-18,551,104,small market,south,26,beans,coffee,colombian,78,197,oklahoma,90,130,100,220,38,regular,78,True,net positive
+505,20,-12,2014-06-19,-598,25,small market,south,7,beans,espresso,caffe latte,-12,48,new mexico,10,20,-10,30,40,regular,-12,True,net negative
+918,134,90,2014-06-20,-2248,186,small market,south,41,beans,espresso,caffe latte,142,341,oklahoma,100,140,90,240,65,regular,142,True,net positive
+985,94,44,2014-06-21,540,120,small market,south,31,leaves,herbal tea,chamomile,91,228,louisiana,80,110,70,190,43,decaf,91,True,net positive
+505,16,3,2014-06-22,851,25,small market,south,4,leaves,herbal tea,chamomile,12,44,new mexico,10,20,10,30,16,decaf,12,True,net positive
+580,105,0,2014-06-23,716,145,small market,south,95,leaves,herbal tea,lemon,36,266,oklahoma,90,140,30,230,125,decaf,36,True,net positive
+860,125,-15,2014-06-24,1119,188,small market,east,41,beans,coffee,colombian,115,313,connecticut,100,160,130,260,73,regular,115,True,net positive
+203,60,-39,2014-06-25,606,84,small market,east,54,beans,espresso,caffe mocha,1,144,connecticut,40,90,40,130,83,regular,1,True,net positive
+203,130,-8,2014-06-26,1134,195,small market,east,42,beans,coffee,colombian,122,325,connecticut,110,180,130,290,73,regular,122,True,net positive
+203,115,-5,2014-06-27,1166,174,small market,east,37,beans,coffee,colombian,105,289,connecticut,100,160,110,260,69,regular,105,True,net positive
+203,125,41,2014-06-28,1119,188,small market,east,41,beans,coffee,colombian,136,334,connecticut,100,160,130,260,73,regular,136,True,net positive
+959,60,-39,2014-06-29,606,84,small market,east,54,beans,espresso,caffe mocha,10,153,connecticut,40,90,40,130,83,regular,10,True,net positive
+203,130,51,2014-06-30,1134,195,small market,east,42,beans,coffee,colombian,143,346,connecticut,110,180,130,290,73,regular,143,True,net positive
+959,115,46,2014-07-01,1166,174,small market,east,37,beans,coffee,colombian,124,308,connecticut,100,160,110,260,69,regular,124,True,net positive
+561,91,-14,2014-07-02,656,127,major market,east,28,beans,coffee,decaf irish cream,76,218,florida,70,110,90,180,51,decaf,76,True,net positive
+239,86,-30,2014-07-03,547,116,major market,east,28,beans,espresso,decaf espresso,60,202,florida,70,110,90,180,56,decaf,60,True,net positive
+407,82,-26,2014-07-04,788,123,major market,east,27,beans,coffee,colombian,64,205,florida,60,110,90,170,59,regular,64,True,net positive
+857,72,18,2014-07-05,-3004,402,major market,east,23,beans,coffee,colombian,348,474,massachusetts,50,350,330,400,54,regular,348,True,net positive
+315,260,17,2014-07-06,2548,390,major market,east,91,beans,coffee,colombian,247,650,new york,210,330,230,540,143,regular,247,True,net positive
+239,96,-32,2014-07-07,683,134,major market,east,87,beans,espresso,caffe mocha,18,230,florida,80,130,50,210,116,regular,18,True,net positive
+845,125,-32,2014-07-08,3142,-56,major market,east,113,beans,espresso,caffe mocha,-202,69,new york,110,-60,-170,50,146,regular,-202,True,net negative
+781,161,-28,2014-07-09,1267,161,major market,east,45,beans,espresso,regular espresso,92,322,massachusetts,140,160,120,300,69,regular,92,True,net positive
+718,239,-15,2014-07-10,1197,526,major market,east,66,beans,espresso,regular espresso,435,765,new york,210,510,450,720,91,regular,435,True,net positive
+386,22,-10,2014-07-11,573,29,major market,east,7,leaves,herbal tea,chamomile,10,51,florida,0,20,20,20,19,decaf,10,True,net positive
+845,255,59,2014-07-12,1622,258,major market,east,96,leaves,herbal tea,lemon,129,513,new york,140,150,70,290,129,decaf,129,True,net positive
+315,239,-70,2014-07-13,4360,-75,major market,east,74,leaves,herbal tea,mint,-170,164,new york,130,-50,-100,80,95,decaf,-170,True,net negative
+516,108,-25,2014-07-14,971,157,major market,east,30,leaves,tea,darjeeling,115,265,new york,110,170,140,280,42,regular,115,True,net positive
+716,123,-26,2014-07-15,915,179,major market,east,34,leaves,tea,earl grey,134,302,new york,130,190,160,320,45,regular,134,True,net positive
+518,76,-22,2014-07-16,580,111,major market,east,21,leaves,tea,green tea,78,187,new york,80,120,100,200,33,regular,78,True,net positive
+772,102,-1,2014-07-17,666,143,major market,east,31,beans,coffee,decaf irish cream,89,245,florida,90,130,90,220,54,decaf,89,True,net positive
+561,77,-9,2014-07-18,557,103,major market,east,25,beans,espresso,decaf espresso,51,180,florida,70,100,60,170,52,decaf,51,True,net positive
+754,78,3,2014-07-19,798,119,major market,east,25,beans,coffee,colombian,63,197,florida,70,100,60,170,56,regular,63,True,net positive
+978,75,24,2014-07-20,-3287,379,major market,east,24,beans,coffee,colombian,324,454,massachusetts,60,340,300,400,55,regular,324,True,net positive
+347,249,6,2014-07-21,2580,374,major market,east,87,beans,coffee,colombian,236,623,new york,220,340,230,560,138,regular,236,True,net positive
+754,94,-5,2014-07-22,694,130,major market,east,85,beans,espresso,caffe mocha,15,224,florida,90,120,20,210,115,regular,15,True,net positive
+347,121,-12,2014-07-23,3385,-60,major market,east,109,beans,espresso,caffe mocha,-202,61,new york,110,-60,-190,50,142,regular,-202,True,net negative
+508,181,-12,2014-07-24,1283,182,major market,east,50,beans,espresso,regular espresso,108,363,massachusetts,170,180,120,350,74,regular,108,True,net positive
+646,211,-9,2014-07-25,933,464,major market,east,59,beans,espresso,regular espresso,381,675,new york,200,460,390,660,83,regular,381,True,net positive
+561,22,1,2014-07-26,570,30,major market,east,7,leaves,herbal tea,chamomile,11,52,florida,10,20,10,30,19,decaf,11,True,net positive
+631,245,64,2014-07-27,1704,331,major market,east,93,leaves,herbal tea,lemon,204,576,new york,180,240,140,420,127,decaf,204,True,net positive
+914,225,-36,2014-07-28,4742,-65,major market,east,69,leaves,herbal tea,mint,-156,160,new york,160,-50,-120,110,91,decaf,-156,True,net negative
+518,81,-6,2014-07-29,984,117,major market,east,22,leaves,tea,darjeeling,84,198,new york,80,120,90,200,33,regular,84,True,net positive
+315,118,-3,2014-07-30,930,172,major market,east,33,leaves,tea,earl grey,127,290,new york,120,170,130,290,45,regular,127,True,net positive
+813,134,12,2014-07-31,690,186,major market,east,41,beans,coffee,decaf irish cream,122,320,florida,120,160,110,280,64,decaf,122,True,net positive
+407,83,-12,2014-08-01,575,112,major market,east,27,beans,espresso,decaf espresso,58,195,florida,80,110,70,190,54,decaf,58,True,net positive
+754,88,-7,2014-08-02,817,133,major market,east,29,beans,coffee,colombian,73,221,florida,70,120,80,190,60,regular,73,True,net positive
+351,67,30,2014-08-03,-3534,443,major market,east,22,beans,coffee,colombian,390,510,massachusetts,60,390,360,450,53,regular,390,True,net positive
+845,279,21,2014-08-04,2642,420,major market,east,97,beans,coffee,colombian,271,699,new york,250,370,250,620,149,regular,271,True,net positive
+305,105,-9,2014-08-05,716,145,major market,east,95,beans,espresso,caffe mocha,21,250,florida,100,140,30,240,124,regular,21,True,net positive
+212,135,-14,2014-08-06,3641,-69,major market,east,122,beans,espresso,caffe mocha,-224,66,new york,130,-70,-210,60,155,regular,-224,True,net negative
+351,153,7,2014-08-07,1319,153,major market,east,42,beans,espresso,regular espresso,87,306,massachusetts,150,140,80,290,66,regular,87,True,net positive
+718,250,-8,2014-08-08,723,407,major market,east,70,beans,espresso,regular espresso,312,657,new york,240,400,320,640,95,regular,312,True,net positive
+607,294,99,2014-08-09,1727,453,major market,east,111,leaves,herbal tea,lemon,309,747,new york,220,320,210,540,144,decaf,309,True,net positive
+716,241,-39,2014-08-10,5121,-93,major market,east,74,leaves,herbal tea,mint,-189,148,new york,180,-80,-150,100,96,decaf,-189,True,net negative
+716,86,-1,2014-08-11,1003,124,major market,east,24,leaves,tea,darjeeling,89,210,new york,90,120,90,210,35,regular,89,True,net positive
+718,123,-17,2014-08-12,959,179,major market,east,34,leaves,tea,earl grey,133,302,new york,120,190,150,310,46,regular,133,True,net positive
+772,91,23,2014-08-13,656,127,major market,east,28,beans,coffee,decaf irish cream,90,232,florida,70,110,90,180,51,decaf,90,True,net positive
+321,86,-1,2014-08-14,547,116,major market,east,28,beans,espresso,decaf espresso,73,215,florida,70,110,90,180,56,decaf,73,True,net positive
+954,82,5,2014-08-15,788,123,major market,east,27,beans,coffee,colombian,77,218,florida,60,110,90,170,59,regular,77,True,net positive
+857,72,186,2014-08-16,-3004,402,major market,east,23,beans,coffee,colombian,379,505,massachusetts,50,350,330,400,54,regular,379,True,net positive
+716,260,137,2014-08-17,2548,390,major market,east,91,beans,coffee,colombian,290,693,new york,210,330,230,540,143,regular,290,True,net positive
+727,96,-23,2014-08-18,683,134,major market,east,87,beans,espresso,caffe mocha,33,245,florida,80,130,50,210,116,regular,33,True,net positive
+914,125,-130,2014-08-19,3142,-56,major market,east,113,beans,espresso,caffe mocha,-197,74,new york,110,-60,-170,50,146,regular,-197,True,net negative
+508,161,17,2014-08-20,1267,161,major market,east,45,beans,espresso,regular espresso,113,343,massachusetts,140,160,120,300,69,regular,113,True,net positive
+212,239,196,2014-08-21,1197,526,major market,east,66,beans,espresso,regular espresso,485,815,new york,210,510,450,720,91,regular,485,True,net positive
+904,22,-5,2014-08-22,573,29,major market,east,7,leaves,herbal tea,chamomile,13,54,florida,0,20,20,20,19,decaf,13,True,net positive
+585,255,121,2014-08-23,1622,258,major market,east,96,leaves,herbal tea,lemon,163,547,new york,140,150,70,290,129,decaf,163,True,net positive
+631,239,-152,2014-08-24,4360,-75,major market,east,74,leaves,herbal tea,mint,-159,175,new york,130,-50,-100,80,95,decaf,-159,True,net negative
+585,108,31,2014-08-25,971,157,major market,east,30,leaves,tea,darjeeling,132,282,new york,110,170,140,280,42,regular,132,True,net positive
+718,123,39,2014-08-26,915,179,major market,east,34,leaves,tea,earl grey,154,322,new york,130,190,160,320,45,regular,154,True,net positive
+607,76,16,2014-08-27,580,111,major market,east,21,leaves,tea,green tea,90,199,new york,80,120,100,200,33,regular,90,True,net positive
+904,102,42,2014-08-28,666,143,major market,east,31,beans,coffee,decaf irish cream,105,261,florida,90,130,90,220,54,decaf,105,True,net positive
+772,77,16,2014-08-29,557,103,major market,east,25,beans,espresso,decaf espresso,63,192,florida,70,100,60,170,52,decaf,63,True,net positive
+786,78,33,2014-08-30,798,119,major market,east,25,beans,coffee,colombian,76,210,florida,70,100,60,170,56,regular,76,True,net positive
+857,75,181,2014-08-31,-3287,379,major market,east,24,beans,coffee,colombian,354,484,massachusetts,60,340,300,400,55,regular,354,True,net positive
+607,249,120,2014-09-01,2580,374,major market,east,87,beans,coffee,colombian,277,664,new york,220,340,230,560,138,regular,277,True,net positive
+813,94,2,2014-09-02,694,130,major market,east,85,beans,espresso,caffe mocha,30,239,florida,90,120,20,210,115,regular,30,True,net positive
+914,121,-110,2014-09-03,3385,-60,major market,east,109,beans,espresso,caffe mocha,-198,65,new york,110,-60,-190,50,142,regular,-198,True,net negative
+617,181,40,2014-09-04,1283,182,major market,east,50,beans,espresso,regular espresso,132,387,massachusetts,170,180,120,350,74,regular,132,True,net positive
+917,211,175,2014-09-05,933,464,major market,east,59,beans,espresso,regular espresso,425,719,new york,200,460,390,660,83,regular,425,True,net positive
+727,22,6,2014-09-06,570,30,major market,east,7,leaves,herbal tea,chamomile,14,55,florida,10,20,10,30,19,decaf,14,True,net positive
+585,245,163,2014-09-07,1704,331,major market,east,93,leaves,herbal tea,lemon,242,614,new york,180,240,140,420,127,decaf,242,True,net positive
+518,225,-112,2014-09-08,4742,-65,major market,east,69,leaves,herbal tea,mint,-145,171,new york,160,-50,-120,110,91,decaf,-145,True,net negative
+516,81,35,2014-09-09,984,117,major market,east,22,leaves,tea,darjeeling,97,211,new york,80,120,90,200,33,regular,97,True,net positive
+914,118,58,2014-09-10,930,172,major market,east,33,leaves,tea,earl grey,146,309,new york,120,170,130,290,45,regular,146,True,net positive
+727,134,71,2014-09-11,690,186,major market,east,41,beans,coffee,decaf irish cream,143,341,florida,120,160,110,280,64,decaf,143,True,net positive
+386,83,16,2014-09-12,575,112,major market,east,27,beans,espresso,decaf espresso,71,208,florida,80,110,70,190,54,decaf,71,True,net positive
+407,88,28,2014-09-13,817,133,major market,east,29,beans,coffee,colombian,88,236,florida,70,120,80,190,60,regular,88,True,net positive
+351,67,219,2014-09-14,-3534,443,major market,east,22,beans,coffee,colombian,423,543,massachusetts,60,390,360,450,53,regular,423,True,net positive
+315,279,152,2014-09-15,2642,420,major market,east,97,beans,coffee,colombian,317,745,new york,250,370,250,620,149,regular,317,True,net positive
+305,105,1,2014-09-16,716,145,major market,east,95,beans,espresso,caffe mocha,37,266,florida,100,140,30,240,124,regular,37,True,net positive
+845,135,-122,2014-09-17,3641,-69,major market,east,122,beans,espresso,caffe mocha,-220,70,new york,130,-70,-210,60,155,regular,-220,True,net negative
+857,153,49,2014-09-18,1319,153,major market,east,42,beans,espresso,regular espresso,107,326,massachusetts,150,140,80,290,66,regular,107,True,net positive
+518,250,143,2014-09-19,723,407,major market,east,70,beans,espresso,regular espresso,355,700,new york,240,400,320,640,95,regular,355,True,net positive
+631,294,249,2014-09-20,1727,453,major market,east,111,leaves,herbal tea,lemon,358,796,new york,220,320,210,540,144,decaf,358,True,net positive
+716,241,-130,2014-09-21,5121,-93,major market,east,74,leaves,herbal tea,mint,-179,158,new york,180,-80,-150,100,96,decaf,-179,True,net negative
+718,86,42,2014-09-22,1003,124,major market,east,24,leaves,tea,darjeeling,103,224,new york,90,120,90,210,35,regular,103,True,net positive
+518,123,47,2014-09-23,959,179,major market,east,34,leaves,tea,earl grey,153,322,new york,120,190,150,310,46,regular,153,True,net positive
+719,108,-34,2014-09-24,971,157,major market,central,30,beans,coffee,decaf irish cream,116,265,colorado,100,160,150,260,41,decaf,116,True,net positive
+815,122,-45,2014-09-25,789,176,major market,central,39,beans,coffee,decaf irish cream,115,298,illinois,110,190,160,300,61,decaf,115,True,net positive
+303,72,-74,2014-09-26,650,110,major market,central,23,beans,espresso,decaf espresso,56,182,colorado,100,160,130,260,54,decaf,56,True,net positive
+312,239,-151,2014-09-27,1755,239,major market,central,66,beans,espresso,decaf espresso,149,478,illinois,340,370,300,710,90,decaf,149,True,net positive
+614,54,-58,2014-09-28,404,66,major market,central,20,beans,espresso,decaf espresso,12,120,ohio,70,100,70,170,54,decaf,12,True,net positive
+970,123,-27,2014-09-29,915,179,major market,central,34,beans,coffee,amaretto,133,302,colorado,120,180,160,300,46,regular,133,True,net positive
+815,154,-40,2014-09-30,1132,213,major market,central,50,beans,coffee,colombian,120,367,illinois,150,220,160,370,93,regular,120,True,net positive
+303,76,-91,2014-10-01,580,111,major market,central,21,beans,espresso,caffe mocha,79,187,colorado,100,180,170,280,32,regular,79,True,net positive
+815,257,-196,2014-10-02,1662,341,major market,central,84,beans,espresso,caffe mocha,224,598,illinois,370,520,420,890,117,regular,224,True,net positive
+567,161,-98,2014-10-03,1267,161,major market,central,45,beans,espresso,caffe mocha,92,322,ohio,230,240,190,470,69,regular,92,True,net positive
+719,161,-18,2014-10-04,1267,161,major market,central,45,leaves,herbal tea,chamomile,92,322,colorado,120,140,110,260,69,decaf,92,True,net positive
+708,123,-7,2014-10-05,915,179,major market,central,34,leaves,herbal tea,chamomile,133,302,illinois,90,150,140,240,46,decaf,133,True,net positive
+815,108,-4,2014-10-06,971,157,major market,central,30,leaves,herbal tea,mint,116,265,illinois,80,130,120,210,41,decaf,116,True,net positive
+234,82,5,2014-10-07,788,123,major market,central,27,leaves,tea,darjeeling,65,205,ohio,50,90,60,140,58,regular,65,True,net positive
+614,91,-4,2014-10-08,656,127,major market,central,28,leaves,tea,earl grey,76,218,ohio,50,100,80,150,51,regular,76,True,net positive
+720,90,-6,2014-10-09,572,115,major market,central,29,leaves,tea,green tea,74,205,colorado,50,90,80,140,41,regular,74,True,net positive
+641,10,-12,2014-10-10,598,13,small market,central,3,beans,coffee,decaf irish cream,-2,23,iowa,0,10,10,10,15,decaf,-2,True,net negative
+715,86,-39,2014-10-11,547,116,small market,central,28,beans,coffee,decaf irish cream,61,202,wisconsin,80,120,100,200,55,decaf,61,True,net positive
+816,79,-35,2014-10-12,593,98,small market,central,30,beans,coffee,colombian,35,177,missouri,70,100,70,170,63,regular,35,True,net positive
+715,96,-42,2014-10-13,683,134,small market,central,87,beans,coffee,colombian,18,230,wisconsin,90,140,60,230,116,regular,18,True,net positive
+314,40,-54,2014-10-14,881,59,small market,central,11,beans,espresso,caffe mocha,36,99,missouri,50,90,90,140,23,regular,36,True,net positive
+608,80,-72,2014-10-15,1055,94,small market,central,24,beans,espresso,caffe mocha,48,174,wisconsin,110,140,120,250,46,regular,48,True,net positive
+712,257,14,2014-10-16,1662,341,small market,central,84,leaves,herbal tea,chamomile,224,598,iowa,200,280,210,480,117,decaf,224,True,net positive
+641,122,-16,2014-10-17,789,176,small market,central,39,leaves,herbal tea,lemon,114,298,iowa,90,150,130,240,62,decaf,114,True,net positive
+573,86,-36,2014-10-18,1698,23,small market,central,26,leaves,herbal tea,lemon,-26,109,missouri,60,20,10,80,49,decaf,-26,True,net negative
+563,239,39,2014-10-19,1755,239,small market,central,66,leaves,tea,darjeeling,149,478,iowa,170,170,110,340,90,regular,149,True,net positive
+563,255,53,2014-10-20,1756,312,small market,central,96,leaves,tea,earl grey,183,567,iowa,170,230,130,400,129,regular,183,True,net positive
+417,25,-11,2014-10-21,209,31,small market,central,9,leaves,tea,earl grey,-11,56,missouri,10,20,0,30,42,regular,-11,True,net negative
+970,81,4,2014-10-22,984,117,major market,central,22,beans,coffee,decaf irish cream,84,198,colorado,80,110,80,190,33,decaf,84,True,net positive
+815,113,-4,2014-10-23,803,165,major market,central,36,beans,coffee,decaf irish cream,106,278,illinois,110,160,110,270,59,decaf,106,True,net positive
+303,75,-42,2014-10-24,659,114,major market,central,24,beans,espresso,decaf espresso,58,189,colorado,90,150,100,240,56,decaf,58,True,net positive
+847,211,-71,2014-10-25,1778,212,major market,central,59,beans,espresso,decaf espresso,129,423,illinois,270,270,200,540,83,decaf,129,True,net positive
+970,118,-2,2014-10-26,930,172,major market,central,33,beans,coffee,amaretto,128,290,colorado,110,170,130,280,44,regular,128,True,net positive
+815,173,-1,2014-10-27,1150,239,major market,central,57,beans,coffee,colombian,139,412,illinois,170,230,140,400,100,regular,139,True,net positive
+303,50,-22,2014-10-28,589,73,major market,central,14,beans,espresso,caffe mocha,48,123,colorado,60,90,70,150,25,regular,48,True,net positive
+224,228,-94,2014-10-29,1691,304,major market,central,75,beans,espresso,caffe mocha,196,532,illinois,290,390,290,680,108,regular,196,True,net positive
+440,181,-63,2014-10-30,1283,182,major market,central,50,beans,espresso,caffe mocha,107,363,ohio,230,230,170,460,75,regular,107,True,net positive
+970,181,7,2014-10-31,1283,182,major market,central,50,leaves,herbal tea,chamomile,107,363,colorado,170,160,100,330,75,decaf,107,True,net positive
+312,118,17,2014-11-01,930,172,major market,central,33,leaves,herbal tea,chamomile,127,290,illinois,110,150,110,260,45,decaf,127,True,net positive
+630,81,4,2014-11-02,984,117,major market,central,22,leaves,herbal tea,mint,84,198,illinois,70,110,80,180,33,decaf,84,True,net positive
+330,78,2,2014-11-03,798,119,major market,central,25,leaves,tea,darjeeling,62,197,ohio,60,100,60,160,57,regular,62,True,net positive
+630,75,9,2014-11-04,659,114,major market,central,24,leaves,tea,earl grey,59,189,illinois,60,90,50,150,55,regular,59,True,net positive
+419,102,19,2014-11-05,666,143,major market,central,31,leaves,tea,earl grey,89,245,ohio,80,120,70,200,54,regular,89,True,net positive
+719,88,10,2014-11-06,561,112,major market,central,29,leaves,tea,green tea,70,200,colorado,70,90,60,160,42,regular,70,True,net positive
+641,10,-13,2014-11-07,596,13,small market,central,3,beans,coffee,decaf irish cream,-3,23,iowa,0,20,10,20,16,decaf,-3,True,net negative
+262,77,-9,2014-11-08,557,103,small market,central,25,beans,coffee,decaf irish cream,51,180,wisconsin,70,100,60,170,52,decaf,51,True,net positive
+563,15,-2,2014-11-09,848,24,small market,central,4,beans,coffee,amaretto,8,39,iowa,10,20,10,30,16,regular,8,True,net positive
+573,82,-2,2014-11-10,601,102,small market,central,31,beans,coffee,colombian,38,184,missouri,80,100,40,180,64,regular,38,True,net positive
+262,94,-14,2014-11-11,694,130,small market,central,85,beans,coffee,colombian,16,224,wisconsin,90,130,30,220,114,regular,16,True,net positive
+314,54,-29,2014-11-12,885,78,small market,central,15,beans,espresso,caffe mocha,51,132,missouri,60,100,80,160,27,regular,51,True,net positive
+920,75,-25,2014-11-13,1063,89,small market,central,23,beans,espresso,caffe mocha,45,164,wisconsin,90,110,70,200,44,regular,45,True,net positive
+712,228,16,2014-11-14,1691,304,small market,central,75,leaves,herbal tea,chamomile,196,532,iowa,210,280,180,490,108,decaf,196,True,net positive
+712,113,7,2014-11-15,803,165,small market,central,36,leaves,herbal tea,lemon,107,278,iowa,100,150,100,250,58,decaf,107,True,net positive
+712,211,19,2014-11-16,1778,212,small market,central,59,leaves,tea,darjeeling,129,423,iowa,170,180,110,350,83,regular,129,True,net positive
+319,245,43,2014-11-17,1784,300,small market,central,93,leaves,tea,earl grey,173,545,iowa,200,250,130,450,127,regular,173,True,net positive
+720,86,-2,2014-11-18,1003,124,major market,central,24,beans,coffee,decaf irish cream,88,210,colorado,80,120,90,200,36,decaf,88,True,net positive
+630,127,-8,2014-11-19,830,185,major market,central,40,beans,coffee,decaf irish cream,122,312,illinois,120,180,130,300,63,decaf,122,True,net positive
+970,67,-33,2014-11-20,677,101,major market,central,22,beans,espresso,decaf espresso,47,168,colorado,80,130,80,210,54,decaf,47,True,net positive
+630,250,-83,2014-11-21,1820,251,major market,central,70,beans,espresso,decaf espresso,157,501,illinois,320,320,240,640,94,decaf,157,True,net positive
+719,123,4,2014-11-22,959,179,major market,central,34,beans,coffee,amaretto,134,302,colorado,120,170,130,290,45,regular,134,True,net positive
+847,224,4,2014-11-23,1191,310,major market,central,73,beans,coffee,colombian,194,534,illinois,220,300,190,520,116,regular,194,True,net positive
+970,54,-37,2014-11-24,601,79,major market,central,15,beans,espresso,caffe mocha,53,133,colorado,60,110,90,170,26,regular,53,True,net positive
+815,247,-104,2014-11-25,1744,329,major market,central,81,beans,espresso,caffe mocha,216,576,illinois,310,420,320,730,113,regular,216,True,net positive
+740,153,-53,2014-11-26,1319,153,major market,central,42,beans,espresso,caffe mocha,87,306,ohio,190,200,140,390,66,regular,87,True,net positive
+303,153,7,2014-11-27,1319,153,major market,central,42,leaves,herbal tea,chamomile,87,306,colorado,140,140,80,280,66,decaf,87,True,net positive
+309,123,3,2014-11-28,959,179,major market,central,34,leaves,herbal tea,chamomile,133,302,illinois,110,170,130,280,46,decaf,133,True,net positive
+630,86,8,2014-11-29,1003,124,major market,central,24,leaves,herbal tea,mint,88,210,illinois,80,110,80,190,36,decaf,88,True,net positive
+513,88,2,2014-11-30,817,133,major market,central,29,leaves,tea,darjeeling,72,221,ohio,70,110,70,180,61,regular,72,True,net positive
+740,134,31,2014-12-01,690,186,major market,central,41,leaves,tea,earl grey,121,320,ohio,110,150,90,260,65,regular,121,True,net positive
+719,81,6,2014-12-02,551,104,major market,central,26,leaves,tea,green tea,66,185,colorado,60,90,60,150,38,regular,66,True,net positive
+319,10,-11,2014-12-03,594,14,small market,central,3,beans,coffee,decaf irish cream,-1,24,iowa,0,20,10,20,15,decaf,-1,True,net negative
+715,83,-13,2014-12-04,575,112,small market,central,27,beans,coffee,decaf irish cream,57,195,wisconsin,80,110,70,190,55,decaf,57,True,net positive
+573,68,-14,2014-12-05,619,85,small market,central,25,beans,coffee,colombian,26,153,missouri,60,90,40,150,59,regular,26,True,net positive
+715,105,-10,2014-12-06,716,145,small market,central,95,beans,coffee,colombian,20,250,wisconsin,100,140,30,240,125,regular,20,True,net positive
+314,50,-22,2014-12-07,898,73,small market,central,14,beans,espresso,caffe mocha,48,123,missouri,60,90,70,150,25,regular,48,True,net positive
+715,80,-30,2014-12-08,1079,96,small market,central,24,beans,espresso,caffe mocha,50,176,wisconsin,100,120,80,220,46,regular,50,True,net positive
+641,247,16,2014-12-09,1744,329,small market,central,81,leaves,herbal tea,chamomile,216,576,iowa,230,300,200,530,113,decaf,216,True,net positive
+319,127,3,2014-12-10,830,185,small market,central,40,leaves,herbal tea,lemon,123,312,iowa,120,170,120,290,62,decaf,123,True,net positive
+641,250,36,2014-12-11,1820,251,small market,central,70,leaves,tea,darjeeling,156,501,iowa,210,200,120,410,95,regular,156,True,net positive
+641,294,46,2014-12-12,1838,360,small market,central,111,leaves,tea,earl grey,216,654,iowa,240,300,170,540,144,regular,216,True,net positive
+573,20,-6,2014-12-13,218,25,small market,central,7,leaves,tea,earl grey,-16,45,missouri,10,20,-10,30,41,regular,-16,True,net negative
+719,108,22,2014-12-14,971,157,major market,central,30,beans,coffee,decaf irish cream,133,282,colorado,100,160,150,260,41,decaf,133,True,net positive
+815,122,11,2014-12-15,789,176,major market,central,39,beans,coffee,decaf irish cream,135,318,illinois,110,190,160,300,61,decaf,135,True,net positive
+970,72,-47,2014-12-16,650,110,major market,central,23,beans,espresso,decaf espresso,68,194,colorado,100,160,130,260,54,decaf,68,True,net positive
+773,239,-79,2014-12-17,1755,239,major market,central,66,beans,espresso,decaf espresso,180,509,illinois,340,370,300,710,90,decaf,180,True,net positive
+419,54,-52,2014-12-18,404,66,major market,central,20,beans,espresso,decaf espresso,20,128,ohio,70,100,70,170,54,decaf,20,True,net positive
+719,123,37,2014-12-19,915,179,major market,central,34,beans,coffee,amaretto,153,322,colorado,120,180,160,300,46,regular,153,True,net positive
+815,154,18,2014-12-20,1132,213,major market,central,50,beans,coffee,colombian,144,391,illinois,150,220,160,370,93,regular,144,True,net positive
+970,76,-53,2014-12-21,580,111,major market,central,21,beans,espresso,caffe mocha,91,199,colorado,100,180,170,280,32,regular,91,True,net positive
+312,257,-88,2014-12-22,1662,341,major market,central,84,beans,espresso,caffe mocha,263,637,illinois,370,520,420,890,117,regular,263,True,net positive
+513,161,-53,2014-12-23,1267,161,major market,central,45,beans,espresso,caffe mocha,113,343,ohio,230,240,190,470,69,regular,113,True,net positive
+720,161,27,2014-12-24,1267,161,major market,central,45,leaves,herbal tea,chamomile,113,343,colorado,120,140,110,260,69,decaf,113,True,net positive
+708,123,57,2014-12-25,915,179,major market,central,34,leaves,herbal tea,chamomile,153,322,illinois,90,150,140,240,46,decaf,153,True,net positive
+815,108,52,2014-12-26,971,157,major market,central,30,leaves,herbal tea,mint,133,282,illinois,80,130,120,210,41,decaf,133,True,net positive
+419,82,36,2014-12-27,788,123,major market,central,27,leaves,tea,darjeeling,78,218,ohio,50,90,60,140,58,regular,78,True,net positive
+419,91,33,2014-12-28,656,127,major market,central,28,leaves,tea,earl grey,90,232,ohio,50,100,80,150,51,regular,90,True,net positive
+970,90,30,2014-12-29,572,115,major market,central,29,leaves,tea,green tea,87,218,colorado,50,90,80,140,41,regular,87,True,net positive
+641,10,-13,2014-12-30,598,13,small market,central,3,beans,coffee,decaf irish cream,0,25,iowa,0,10,10,10,15,decaf,0,True,net negative
+920,86,-9,2014-12-31,547,116,small market,central,28,beans,coffee,decaf irish cream,74,215,wisconsin,80,120,100,200,55,decaf,74,True,net positive
+573,79,-18,2015-01-01,593,98,small market,central,30,beans,coffee,colombian,47,189,missouri,70,100,70,170,63,regular,47,True,net positive
+414,96,-33,2015-01-02,683,134,small market,central,87,beans,coffee,colombian,33,245,wisconsin,90,140,60,230,116,regular,33,True,net positive
+573,40,-37,2015-01-03,881,59,small market,central,11,beans,espresso,caffe mocha,43,106,missouri,50,90,90,140,23,regular,43,True,net positive
+262,80,-49,2015-01-04,1055,94,small market,central,24,beans,espresso,caffe mocha,59,185,wisconsin,110,140,120,250,46,regular,59,True,net positive
+319,257,122,2015-01-05,1662,341,small market,central,84,leaves,herbal tea,chamomile,263,637,iowa,200,280,210,480,117,decaf,263,True,net positive
+515,122,39,2015-01-06,789,176,small market,central,39,leaves,herbal tea,lemon,134,318,iowa,90,150,130,240,62,decaf,134,True,net positive
+417,86,-49,2015-01-07,1698,23,small market,central,26,leaves,herbal tea,lemon,-19,116,missouri,60,20,10,80,49,decaf,-19,True,net negative
+515,239,111,2015-01-08,1755,239,small market,central,66,leaves,tea,darjeeling,180,509,iowa,170,170,110,340,90,regular,180,True,net positive
+515,255,142,2015-01-09,1756,312,small market,central,96,leaves,tea,earl grey,220,604,iowa,170,230,130,400,129,regular,220,True,net positive
+573,25,-16,2015-01-10,209,31,small market,central,9,leaves,tea,earl grey,-7,60,missouri,10,20,0,30,42,regular,-7,True,net negative
+720,81,45,2015-01-11,984,117,major market,central,22,beans,coffee,decaf irish cream,97,211,colorado,80,110,80,190,33,decaf,97,True,net positive
+847,113,47,2015-01-12,803,165,major market,central,36,beans,coffee,decaf irish cream,124,296,illinois,110,160,110,270,59,decaf,124,True,net positive
+970,75,-14,2015-01-13,659,114,major market,central,24,beans,espresso,decaf espresso,70,201,colorado,90,150,100,240,56,decaf,70,True,net positive
+847,211,-9,2015-01-14,1778,212,major market,central,59,beans,espresso,decaf espresso,157,451,illinois,270,270,200,540,83,decaf,157,True,net positive
+719,118,60,2015-01-15,930,172,major market,central,33,beans,coffee,amaretto,147,309,colorado,110,170,130,280,44,regular,147,True,net positive
+815,173,66,2015-01-16,1150,239,major market,central,57,beans,coffee,colombian,166,439,illinois,170,230,140,400,100,regular,166,True,net positive
+303,50,1,2015-01-17,589,73,major market,central,14,beans,espresso,caffe mocha,56,131,colorado,60,90,70,150,25,regular,56,True,net positive
+630,228,1,2015-01-18,1691,304,major market,central,75,beans,espresso,caffe mocha,231,567,illinois,290,390,290,680,108,regular,231,True,net positive
+234,181,-11,2015-01-19,1283,182,major market,central,50,beans,espresso,caffe mocha,131,387,ohio,230,230,170,460,75,regular,131,True,net positive
+970,181,59,2015-01-20,1283,182,major market,central,50,leaves,herbal tea,chamomile,131,387,colorado,170,160,100,330,75,decaf,131,True,net positive
+708,118,78,2015-01-21,930,172,major market,central,33,leaves,herbal tea,chamomile,146,309,illinois,110,150,110,260,45,decaf,146,True,net positive
+708,81,45,2015-01-22,984,117,major market,central,22,leaves,herbal tea,mint,97,211,illinois,70,110,80,180,33,decaf,97,True,net positive
+614,78,32,2015-01-23,798,119,major market,central,25,leaves,tea,darjeeling,75,210,ohio,60,100,60,160,57,regular,75,True,net positive
+309,75,38,2015-01-24,659,114,major market,central,24,leaves,tea,earl grey,71,201,illinois,60,90,50,150,55,regular,71,True,net positive
+740,102,62,2015-01-25,666,143,major market,central,31,leaves,tea,earl grey,105,261,ohio,80,120,70,200,54,regular,105,True,net positive
+970,88,44,2015-01-26,561,112,major market,central,29,leaves,tea,green tea,83,213,colorado,70,90,60,160,42,regular,83,True,net positive
+319,10,-14,2015-01-27,596,13,small market,central,3,beans,coffee,decaf irish cream,-1,25,iowa,0,20,10,20,16,decaf,-1,True,net negative
+920,77,16,2015-01-28,557,103,small market,central,25,beans,coffee,decaf irish cream,63,192,wisconsin,70,100,60,170,52,decaf,63,True,net positive
+712,15,2,2015-01-29,848,24,small market,central,4,beans,coffee,amaretto,11,42,iowa,10,20,10,30,16,regular,11,True,net positive
+573,82,16,2015-01-30,601,102,small market,central,31,beans,coffee,colombian,50,196,missouri,80,100,40,180,64,regular,50,True,net positive
+608,94,-6,2015-01-31,694,130,small market,central,85,beans,coffee,colombian,31,239,wisconsin,90,130,30,220,114,regular,31,True,net positive
+573,54,-4,2015-02-01,885,78,small market,central,15,beans,espresso,caffe mocha,60,141,missouri,60,100,80,160,27,regular,60,True,net positive
+715,75,-3,2015-02-02,1063,89,small market,central,23,beans,espresso,caffe mocha,56,175,wisconsin,90,110,70,200,44,regular,56,True,net positive
+641,228,111,2015-02-03,1691,304,small market,central,75,leaves,herbal tea,chamomile,231,567,iowa,210,280,180,490,108,decaf,231,True,net positive
+641,113,59,2015-02-04,803,165,small market,central,36,leaves,herbal tea,lemon,125,296,iowa,100,150,100,250,58,decaf,125,True,net positive
+563,211,81,2015-02-05,1778,212,small market,central,59,leaves,tea,darjeeling,157,451,iowa,170,180,110,350,83,regular,157,True,net positive
+641,245,127,2015-02-06,1784,300,small market,central,93,leaves,tea,earl grey,209,581,iowa,200,250,130,450,127,regular,209,True,net positive
+720,86,41,2015-02-07,1003,124,major market,central,24,beans,coffee,decaf irish cream,102,224,colorado,80,120,90,200,36,decaf,102,True,net positive
+312,127,51,2015-02-08,830,185,major market,central,40,beans,coffee,decaf irish cream,142,332,illinois,120,180,130,300,63,decaf,142,True,net positive
+720,67,-10,2015-02-09,677,101,major market,central,22,beans,espresso,decaf espresso,58,179,colorado,80,130,80,210,54,decaf,58,True,net positive
+773,250,-7,2015-02-10,1820,251,major market,central,70,beans,espresso,decaf espresso,190,534,illinois,320,320,240,640,94,decaf,190,True,net positive
+303,123,69,2015-02-11,959,179,major market,central,34,beans,coffee,amaretto,154,322,colorado,120,170,130,290,45,regular,154,True,net positive
+312,224,98,2015-02-12,1191,310,major market,central,73,beans,coffee,colombian,229,569,illinois,220,300,190,520,116,regular,229,True,net positive
+970,54,-11,2015-02-13,601,79,major market,central,15,beans,espresso,caffe mocha,62,142,colorado,60,110,90,170,26,regular,62,True,net positive
+708,247,1,2015-02-14,1744,329,major market,central,81,beans,espresso,caffe mocha,254,614,illinois,310,420,320,730,113,regular,254,True,net positive
+937,153,-11,2015-02-15,1319,153,major market,central,42,beans,espresso,caffe mocha,107,326,ohio,190,200,140,390,66,regular,107,True,net positive
+970,153,49,2015-02-16,1319,153,major market,central,42,leaves,herbal tea,chamomile,107,326,colorado,140,140,80,280,66,decaf,107,True,net positive
+618,123,67,2015-02-17,959,179,major market,central,34,leaves,herbal tea,chamomile,153,322,illinois,110,170,130,280,46,decaf,153,True,net positive
+312,86,51,2015-02-18,1003,124,major market,central,24,leaves,herbal tea,mint,102,224,illinois,80,110,80,190,36,decaf,102,True,net positive
+513,88,37,2015-02-19,817,133,major market,central,29,leaves,tea,darjeeling,87,236,ohio,70,110,70,180,61,regular,87,True,net positive
+513,134,90,2015-02-20,690,186,major market,central,41,leaves,tea,earl grey,142,341,ohio,110,150,90,260,65,regular,142,True,net positive
+719,81,38,2015-02-21,551,104,major market,central,26,leaves,tea,green tea,78,197,colorado,60,90,60,150,38,regular,78,True,net positive
+712,10,-11,2015-02-22,594,14,small market,central,3,beans,coffee,decaf irish cream,1,26,iowa,0,20,10,20,15,decaf,1,True,net positive
+414,83,15,2015-02-23,575,112,small market,central,27,beans,coffee,decaf irish cream,70,208,wisconsin,80,110,70,190,55,decaf,70,True,net positive
+573,68,-1,2015-02-24,619,85,small market,central,25,beans,coffee,colombian,36,163,missouri,60,90,40,150,59,regular,36,True,net positive
+262,105,0,2015-02-25,716,145,small market,central,95,beans,coffee,colombian,36,266,wisconsin,100,140,30,240,125,regular,36,True,net positive
+573,50,1,2015-02-26,898,73,small market,central,14,beans,espresso,caffe mocha,56,131,missouri,60,90,70,150,25,regular,56,True,net positive
+262,80,-6,2015-02-27,1079,96,small market,central,24,beans,espresso,caffe mocha,62,188,wisconsin,100,120,80,220,46,regular,62,True,net positive
+515,247,121,2015-02-28,1744,329,small market,central,81,leaves,herbal tea,chamomile,254,614,iowa,230,300,200,530,113,decaf,254,True,net positive
+515,127,63,2015-03-01,830,185,small market,central,40,leaves,herbal tea,lemon,143,332,iowa,120,170,120,290,62,decaf,143,True,net positive
+641,250,112,2015-03-02,1820,251,small market,central,70,leaves,tea,darjeeling,189,534,iowa,210,200,120,410,95,regular,189,True,net positive
+563,294,151,2015-03-03,1838,360,small market,central,111,leaves,tea,earl grey,259,697,iowa,240,300,170,540,144,regular,259,True,net positive
+816,20,-14,2015-03-04,218,25,small market,central,7,leaves,tea,earl grey,-13,48,missouri,10,20,-10,30,41,regular,-13,True,net negative
+951,154,-17,2015-03-05,3654,-24,major market,west,50,beans,coffee,decaf irish cream,-117,130,california,220,-30,-100,190,93,decaf,-117,True,net negative
+714,257,-15,2015-03-06,1662,341,major market,west,84,beans,espresso,decaf espresso,225,598,california,230,320,240,550,116,decaf,225,True,net positive
+818,122,-14,2015-03-07,2555,-13,major market,west,39,beans,coffee,amaretto,-74,109,california,170,-20,-60,150,61,regular,-74,True,net negative
+626,260,-223,2015-03-08,2548,390,major market,west,91,beans,coffee,colombian,247,650,california,380,580,470,960,143,regular,247,True,net positive
+562,239,-11,2015-03-09,1755,239,major market,west,66,beans,espresso,caffe latte,149,478,california,210,220,160,430,90,regular,149,True,net positive
+562,125,-23,2015-03-10,898,173,major market,west,113,beans,espresso,caffe mocha,27,298,california,110,160,50,270,146,regular,27,True,net positive
+661,108,-5,2015-03-11,971,157,major market,west,30,leaves,herbal tea,chamomile,115,265,california,80,130,120,210,42,decaf,115,True,net positive
+562,239,16,2015-03-12,1246,281,major market,west,74,leaves,herbal tea,lemon,186,520,california,190,220,170,410,95,decaf,186,True,net positive
+562,123,54,2015-03-13,915,179,major market,west,34,leaves,tea,darjeeling,134,302,california,50,90,80,140,45,regular,134,True,net positive
+971,43,-51,2015-03-14,419,64,small market,west,13,beans,coffee,decaf irish cream,29,107,oregon,50,100,80,150,35,decaf,29,True,net positive
+435,79,-86,2015-03-15,593,98,small market,west,30,beans,coffee,decaf irish cream,34,177,utah,100,160,120,260,64,decaf,34,True,net positive
+425,96,-83,2015-03-16,683,134,small market,west,87,beans,coffee,decaf irish cream,17,230,washington,140,190,100,330,117,decaf,17,True,net positive
+503,161,-19,2015-03-17,1267,161,small market,west,45,beans,espresso,decaf espresso,91,322,oregon,140,150,110,290,70,decaf,91,True,net positive
+253,80,-32,2015-03-18,1055,94,small market,west,24,beans,espresso,decaf espresso,48,174,washington,60,90,80,150,46,decaf,48,True,net positive
+971,51,-55,2015-03-19,503,71,small market,west,46,beans,coffee,amaretto,-5,122,oregon,70,100,50,170,76,regular,-5,True,net negative
+435,65,-54,2015-03-20,1053,77,small market,west,20,beans,coffee,amaretto,36,142,utah,90,110,90,200,41,regular,36,True,net positive
+971,60,-69,2015-03-21,463,84,small market,west,19,beans,coffee,colombian,21,144,oregon,80,130,90,210,63,regular,21,True,net positive
+435,47,-58,2015-03-22,375,64,small market,west,15,beans,coffee,colombian,22,111,utah,50,100,80,150,42,regular,22,True,net positive
+206,68,-54,2015-03-23,438,99,small market,west,21,beans,coffee,colombian,56,167,washington,90,140,110,230,43,regular,56,True,net positive
+206,22,-10,2015-03-24,573,29,small market,west,7,beans,espresso,caffe latte,10,51,washington,10,20,20,30,19,regular,10,True,net positive
+702,21,-6,2015-03-25,846,31,small market,west,5,beans,espresso,caffe mocha,14,52,nevada,10,20,20,30,17,regular,14,True,net positive
+801,103,-23,2015-03-26,564,133,small market,west,33,beans,espresso,caffe mocha,87,236,utah,80,130,110,210,46,regular,87,True,net positive
+775,125,-34,2015-03-27,898,173,small market,west,113,leaves,herbal tea,chamomile,26,298,nevada,90,150,60,240,147,decaf,26,True,net positive
+206,125,-15,2015-03-28,1119,188,small market,west,41,leaves,herbal tea,chamomile,115,313,washington,90,160,130,250,73,decaf,115,True,net positive
+702,154,0,2015-03-29,1132,213,small market,west,50,leaves,herbal tea,lemon,120,367,nevada,120,170,120,290,93,decaf,120,True,net positive
+971,90,-17,2015-03-30,572,115,small market,west,29,leaves,herbal tea,lemon,73,205,oregon,60,100,90,160,42,decaf,73,True,net positive
+702,122,-16,2015-03-31,789,176,small market,west,39,leaves,herbal tea,mint,114,298,nevada,90,150,130,240,62,decaf,114,True,net positive
+435,86,-27,2015-04-01,1698,23,small market,west,26,leaves,herbal tea,mint,-27,109,utah,60,20,0,80,50,decaf,-27,True,net negative
+702,257,94,2015-04-02,1662,341,small market,west,84,leaves,tea,darjeeling,224,598,nevada,110,180,130,290,117,regular,224,True,net positive
+541,21,-4,2015-04-03,480,32,small market,west,5,leaves,tea,darjeeling,16,53,oregon,0,20,20,20,16,regular,16,True,net positive
+775,239,69,2015-04-04,1755,239,small market,west,66,leaves,tea,earl grey,149,478,nevada,110,120,80,230,90,regular,149,True,net positive
+702,255,-193,2015-04-05,7058,-255,small market,west,96,leaves,tea,green tea,-363,21,nevada,110,-110,-170,0,129,regular,-363,True,net negative
+435,25,-22,2015-04-06,209,31,small market,west,9,leaves,tea,green tea,-12,56,utah,0,20,10,20,43,regular,-12,True,net negative
+909,173,3,2015-04-07,3909,-27,major market,west,57,beans,coffee,decaf irish cream,-127,146,california,200,-30,-130,170,100,decaf,-127,True,net negative
+707,228,7,2015-04-08,1691,304,major market,west,75,beans,espresso,decaf espresso,197,532,california,220,290,190,510,107,decaf,197,True,net positive
+619,113,-6,2015-04-09,2758,3,major market,west,36,beans,coffee,amaretto,-56,116,california,130,0,-50,130,59,regular,-56,True,net negative
+951,249,-75,2015-04-10,2580,374,major market,west,87,beans,coffee,colombian,235,623,california,290,450,310,740,139,regular,235,True,net positive
+559,211,-11,2015-04-11,1778,212,major market,west,59,beans,espresso,caffe latte,129,423,california,200,210,140,410,83,regular,129,True,net positive
+818,121,-14,2015-04-12,912,168,major market,west,109,beans,espresso,caffe mocha,26,289,california,110,170,40,280,142,regular,26,True,net positive
+213,81,4,2015-04-13,984,117,major market,west,22,leaves,herbal tea,chamomile,84,198,california,70,110,80,180,33,decaf,84,True,net positive
+213,225,14,2015-04-14,1272,265,major market,west,69,leaves,herbal tea,lemon,174,490,california,210,240,160,450,91,decaf,174,True,net positive
+213,118,18,2015-04-15,930,172,major market,west,33,leaves,tea,darjeeling,128,290,california,80,130,110,210,44,regular,128,True,net positive
+801,82,-22,2015-04-16,601,102,small market,west,31,beans,coffee,decaf irish cream,38,184,utah,90,120,60,210,64,decaf,38,True,net positive
+253,94,-24,2015-04-17,694,130,small market,west,85,beans,coffee,decaf irish cream,16,224,washington,110,150,40,260,114,decaf,16,True,net positive
+503,181,-12,2015-04-18,1283,182,small market,west,50,beans,espresso,decaf espresso,108,363,oregon,170,180,120,350,74,decaf,108,True,net positive
+801,69,-11,2015-04-19,1060,81,small market,west,21,beans,coffee,amaretto,39,150,utah,80,90,50,170,42,regular,39,True,net positive
+971,53,-26,2015-04-20,470,75,small market,west,17,beans,coffee,colombian,14,128,oregon,60,90,40,150,61,regular,14,True,net positive
+425,63,-20,2015-04-21,446,93,small market,west,20,beans,coffee,colombian,50,156,washington,70,110,70,180,43,regular,50,True,net positive
+775,15,-1,2015-04-22,848,24,small market,west,4,beans,espresso,caffe mocha,9,39,nevada,10,20,10,30,15,regular,9,True,net positive
+435,101,-5,2015-04-23,552,130,small market,west,33,beans,espresso,caffe mocha,85,231,utah,90,130,90,220,45,regular,85,True,net positive
+775,121,6,2015-04-24,912,168,small market,west,109,leaves,herbal tea,chamomile,26,289,nevada,110,150,20,260,142,decaf,26,True,net positive
+206,130,2,2015-04-25,1134,195,small market,west,42,leaves,herbal tea,chamomile,122,325,washington,120,180,120,300,73,decaf,122,True,net positive
+702,173,8,2015-04-26,1150,239,small market,west,57,leaves,herbal tea,lemon,138,412,nevada,160,220,130,380,101,decaf,138,True,net positive
+971,88,0,2015-04-27,561,112,small market,west,29,leaves,herbal tea,lemon,70,200,oregon,80,100,70,180,42,decaf,70,True,net positive
+702,113,7,2015-04-28,803,165,small market,west,36,leaves,herbal tea,mint,107,278,nevada,100,150,100,250,58,decaf,107,True,net positive
+702,228,56,2015-04-29,1691,304,small market,west,75,leaves,tea,darjeeling,196,532,nevada,160,220,140,380,108,regular,196,True,net positive
+702,211,48,2015-04-30,1778,212,small market,west,59,leaves,tea,earl grey,128,423,nevada,150,150,80,300,84,regular,128,True,net positive
+971,78,12,2015-05-01,798,119,small market,west,25,leaves,tea,earl grey,62,197,oregon,50,90,50,140,57,regular,62,True,net positive
+702,245,-60,2015-05-02,7653,-245,small market,west,93,leaves,tea,green tea,-340,32,nevada,180,-180,-280,0,127,regular,-340,True,net negative
+971,102,19,2015-05-03,666,143,small market,west,31,leaves,tea,green tea,89,245,oregon,70,100,70,170,54,regular,89,True,net positive
+714,224,1,2015-05-04,4216,-32,major market,west,73,beans,coffee,decaf irish cream,-149,192,california,260,-40,-150,220,117,decaf,-149,True,net negative
+209,247,6,2015-05-05,1744,329,major market,west,81,beans,espresso,decaf espresso,216,576,california,240,310,210,550,113,decaf,216,True,net positive
+951,127,2,2015-05-06,2947,-25,major market,west,40,beans,coffee,amaretto,-88,102,california,150,-30,-90,120,63,regular,-88,True,net negative
+707,279,-79,2015-05-07,2642,420,major market,west,97,beans,coffee,colombian,271,699,california,330,500,350,830,149,regular,271,True,net positive
+916,250,-3,2015-05-08,1820,251,major market,west,70,beans,espresso,caffe latte,157,501,california,240,240,160,480,94,regular,157,True,net positive
+530,135,-9,2015-05-09,940,187,major market,west,122,beans,espresso,caffe mocha,31,322,california,130,180,40,310,156,regular,31,True,net positive
+626,86,9,2015-05-10,1003,124,major market,west,24,leaves,herbal tea,chamomile,89,210,california,80,110,80,190,35,decaf,89,True,net positive
+415,241,18,2015-05-11,1321,284,major market,west,74,leaves,herbal tea,lemon,188,525,california,220,260,170,480,96,decaf,188,True,net positive
+916,123,24,2015-05-12,959,179,major market,west,34,leaves,tea,darjeeling,134,302,california,90,130,110,220,45,regular,134,True,net positive
+435,68,-24,2015-05-13,619,85,small market,west,25,beans,coffee,decaf irish cream,26,153,utah,80,100,50,180,59,decaf,26,True,net positive
+509,105,-30,2015-05-14,716,145,small market,west,95,beans,coffee,decaf irish cream,20,250,washington,120,170,50,290,125,decaf,20,True,net positive
+971,153,7,2015-05-15,1319,153,small market,west,42,beans,espresso,decaf espresso,87,306,oregon,150,140,80,290,66,decaf,87,True,net positive
+253,80,-9,2015-05-16,1079,96,small market,west,24,beans,espresso,decaf espresso,51,176,washington,70,100,60,170,45,decaf,51,True,net positive
+435,63,-14,2015-05-17,1075,76,small market,west,19,beans,coffee,amaretto,36,139,utah,70,90,50,160,40,regular,36,True,net positive
+253,72,-22,2015-05-18,461,104,small market,west,23,beans,coffee,colombian,58,176,washington,80,120,80,200,46,regular,58,True,net positive
+775,16,0,2015-05-19,851,25,small market,west,4,beans,espresso,caffe mocha,10,41,nevada,10,20,10,30,15,regular,10,True,net positive
+435,94,7,2015-05-20,540,120,small market,west,31,beans,espresso,caffe mocha,77,214,utah,90,110,70,200,43,regular,77,True,net positive
+702,135,2,2015-05-21,940,187,small market,west,122,leaves,herbal tea,chamomile,32,322,nevada,120,170,30,290,155,decaf,32,True,net positive
+509,115,-5,2015-05-22,1166,174,small market,west,37,leaves,herbal tea,chamomile,105,289,washington,100,160,110,260,69,decaf,105,True,net positive
+775,224,24,2015-05-23,1191,310,small market,west,73,leaves,herbal tea,lemon,194,534,nevada,210,280,170,490,116,decaf,194,True,net positive
+541,81,-4,2015-05-24,551,104,small market,west,26,leaves,herbal tea,lemon,66,185,oregon,70,100,70,170,38,decaf,66,True,net positive
+775,127,2,2015-05-25,830,185,small market,west,40,leaves,herbal tea,mint,122,312,nevada,120,170,120,290,63,decaf,122,True,net positive
+702,247,65,2015-05-26,1744,329,small market,west,81,leaves,tea,darjeeling,215,576,nevada,180,240,150,420,114,regular,215,True,net positive
+702,250,57,2015-05-27,1820,251,small market,west,70,leaves,tea,earl grey,157,501,nevada,180,180,100,360,94,regular,157,True,net positive
+971,88,13,2015-05-28,817,133,small market,west,29,leaves,tea,earl grey,73,221,oregon,60,100,60,160,60,regular,73,True,net positive
+775,294,-88,2015-05-29,8252,-294,small market,west,111,leaves,tea,green tea,-408,31,nevada,210,-210,-320,0,145,regular,-408,True,net negative
+503,134,21,2015-05-30,690,186,small market,west,41,leaves,tea,green tea,121,320,oregon,90,140,100,230,65,regular,121,True,net positive
+435,20,-15,2015-05-31,218,25,small market,west,7,leaves,tea,green tea,-15,45,utah,10,20,0,30,40,regular,-15,True,net negative
+650,154,-74,2015-06-01,3654,-24,major market,west,50,beans,coffee,decaf irish cream,-108,139,california,220,-30,-100,190,93,decaf,-108,True,net negative
+415,257,94,2015-06-02,1662,341,major market,west,84,beans,espresso,decaf espresso,264,637,california,230,320,240,550,116,decaf,264,True,net positive
+909,122,-50,2015-06-03,2555,-13,major market,west,39,beans,coffee,amaretto,-67,116,california,170,-20,-60,150,61,regular,-67,True,net negative
+818,260,-103,2015-06-04,2548,390,major market,west,91,beans,coffee,colombian,290,693,california,380,580,470,960,143,regular,290,True,net positive
+714,239,61,2015-06-05,1755,239,major market,west,66,beans,espresso,caffe latte,180,509,california,210,220,160,430,90,regular,180,True,net positive
+805,125,-10,2015-06-06,898,173,major market,west,113,beans,espresso,caffe mocha,47,318,california,110,160,50,270,146,regular,47,True,net positive
+925,108,51,2015-06-07,971,157,major market,west,30,leaves,herbal tea,chamomile,132,282,california,80,130,120,210,42,decaf,132,True,net positive
+951,239,106,2015-06-08,1246,281,major market,west,74,leaves,herbal tea,lemon,220,554,california,190,220,170,410,95,decaf,220,True,net positive
+831,123,119,2015-06-09,915,179,major market,west,34,leaves,tea,darjeeling,154,322,california,50,90,80,140,45,regular,154,True,net positive
+971,43,-37,2015-06-10,419,64,small market,west,13,beans,coffee,decaf irish cream,36,114,oregon,50,100,80,150,35,decaf,36,True,net positive
+435,79,-70,2015-06-11,593,98,small market,west,30,beans,coffee,decaf irish cream,46,189,utah,100,160,120,260,64,decaf,46,True,net positive
+206,96,-75,2015-06-12,683,134,small market,west,87,beans,coffee,decaf irish cream,32,245,washington,140,190,100,330,117,decaf,32,True,net positive
+503,161,25,2015-06-13,1267,161,small market,west,45,beans,espresso,decaf espresso,112,343,oregon,140,150,110,290,70,decaf,112,True,net positive
+360,80,-9,2015-06-14,1055,94,small market,west,24,beans,espresso,decaf espresso,59,185,washington,60,90,80,150,46,decaf,59,True,net positive
+503,51,-57,2015-06-15,503,71,small market,west,46,beans,coffee,amaretto,3,130,oregon,70,100,50,170,76,regular,3,True,net positive
+435,65,-37,2015-06-16,1053,77,small market,west,20,beans,coffee,amaretto,45,151,utah,90,110,90,200,41,regular,45,True,net positive
+503,60,-59,2015-06-17,463,84,small market,west,19,beans,coffee,colombian,30,153,oregon,80,130,90,210,63,regular,30,True,net positive
+435,47,-47,2015-06-18,375,64,small market,west,15,beans,coffee,colombian,29,118,utah,50,100,80,150,42,regular,29,True,net positive
+360,68,-27,2015-06-19,438,99,small market,west,21,beans,coffee,colombian,67,178,washington,90,140,110,230,43,regular,67,True,net positive
+206,22,-5,2015-06-20,573,29,small market,west,7,beans,espresso,caffe latte,13,54,washington,10,20,20,30,19,regular,13,True,net positive
+775,21,1,2015-06-21,846,31,small market,west,5,beans,espresso,caffe mocha,17,55,nevada,10,20,20,30,17,regular,17,True,net positive
+435,103,19,2015-06-22,564,133,small market,west,33,beans,espresso,caffe mocha,102,251,utah,80,130,110,210,46,regular,102,True,net positive
+702,125,-21,2015-06-23,898,173,small market,west,113,leaves,herbal tea,chamomile,46,318,nevada,90,150,60,240,147,decaf,46,True,net positive
+360,125,41,2015-06-24,1119,188,small market,west,41,leaves,herbal tea,chamomile,136,334,washington,90,160,130,250,73,decaf,136,True,net positive
+775,154,58,2015-06-25,1132,213,small market,west,50,leaves,herbal tea,lemon,144,391,nevada,120,170,120,290,93,decaf,144,True,net positive
+541,90,18,2015-06-26,572,115,small market,west,29,leaves,herbal tea,lemon,86,218,oregon,60,100,90,160,42,decaf,86,True,net positive
+775,122,39,2015-06-27,789,176,small market,west,39,leaves,herbal tea,mint,134,318,nevada,90,150,130,240,62,decaf,134,True,net positive
+435,86,-40,2015-06-28,1698,23,small market,west,26,leaves,herbal tea,mint,-20,116,utah,60,20,0,80,50,decaf,-20,True,net negative
+775,257,202,2015-06-29,1662,341,small market,west,84,leaves,tea,darjeeling,263,637,nevada,110,180,130,290,117,regular,263,True,net positive
+971,21,4,2015-06-30,480,32,small market,west,5,leaves,tea,darjeeling,19,56,oregon,0,20,20,20,16,regular,19,True,net positive
+775,239,141,2015-07-01,1755,239,small market,west,66,leaves,tea,earl grey,180,509,nevada,110,120,80,230,90,regular,180,True,net positive
+702,255,-369,2015-07-02,7058,-255,small market,west,96,leaves,tea,green tea,-362,22,nevada,110,-110,-170,0,129,regular,-362,True,net negative
+435,25,-28,2015-07-03,209,31,small market,west,9,leaves,tea,green tea,-8,60,utah,0,20,10,20,43,regular,-8,True,net negative
+626,173,-58,2015-07-04,3909,-27,major market,west,57,beans,coffee,decaf irish cream,-117,156,california,200,-30,-130,170,100,decaf,-117,True,net negative
+213,228,102,2015-07-05,1691,304,major market,west,75,beans,espresso,decaf espresso,232,567,california,220,290,190,510,107,decaf,232,True,net positive
+916,113,-33,2015-07-06,2758,3,major market,west,36,beans,coffee,amaretto,-48,124,california,130,0,-50,130,59,regular,-48,True,net negative
+213,249,39,2015-07-07,2580,374,major market,west,87,beans,coffee,colombian,276,664,california,290,450,310,740,139,regular,276,True,net positive
+951,211,51,2015-07-08,1778,212,major market,west,59,beans,espresso,caffe latte,157,451,california,200,210,140,410,83,regular,157,True,net positive
+916,121,-1,2015-07-09,912,168,major market,west,109,beans,espresso,caffe mocha,45,308,california,110,170,40,280,142,regular,45,True,net positive
+760,81,45,2015-07-10,984,117,major market,west,22,leaves,herbal tea,chamomile,97,211,california,70,110,80,180,33,decaf,97,True,net positive
+510,225,98,2015-07-11,1272,265,major market,west,69,leaves,herbal tea,lemon,206,522,california,210,240,160,450,91,decaf,206,True,net positive
+805,118,80,2015-07-12,930,172,major market,west,33,leaves,tea,darjeeling,147,309,california,80,130,110,210,44,regular,147,True,net positive
+435,82,-4,2015-07-13,601,102,small market,west,31,beans,coffee,decaf irish cream,50,196,utah,90,120,60,210,64,decaf,50,True,net positive
+509,94,-16,2015-07-14,694,130,small market,west,85,beans,coffee,decaf irish cream,31,239,washington,110,150,40,260,114,decaf,31,True,net positive
+971,181,40,2015-07-15,1283,182,small market,west,50,beans,espresso,decaf espresso,132,387,oregon,170,180,120,350,74,decaf,132,True,net positive
+435,69,8,2015-07-16,1060,81,small market,west,21,beans,coffee,amaretto,49,160,utah,80,90,50,170,42,regular,49,True,net positive
+541,53,-19,2015-07-17,470,75,small market,west,17,beans,coffee,colombian,22,136,oregon,60,90,40,150,61,regular,22,True,net positive
+253,63,4,2015-07-18,446,93,small market,west,20,beans,coffee,colombian,60,166,washington,70,110,70,180,43,regular,60,True,net positive
+775,15,3,2015-07-19,848,24,small market,west,4,beans,espresso,caffe mocha,12,42,nevada,10,20,10,30,15,regular,12,True,net positive
+801,101,36,2015-07-20,552,130,small market,west,33,beans,espresso,caffe mocha,100,246,utah,90,130,90,220,45,regular,100,True,net positive
+702,121,19,2015-07-21,912,168,small market,west,109,leaves,herbal tea,chamomile,45,308,nevada,110,150,20,260,142,decaf,45,True,net positive
+206,130,61,2015-07-22,1134,195,small market,west,42,leaves,herbal tea,chamomile,143,346,washington,120,180,120,300,73,decaf,143,True,net positive
+702,173,75,2015-07-23,1150,239,small market,west,57,leaves,herbal tea,lemon,165,439,nevada,160,220,130,380,101,decaf,165,True,net positive
+541,88,34,2015-07-24,561,112,small market,west,29,leaves,herbal tea,lemon,83,213,oregon,80,100,70,180,42,decaf,83,True,net positive
+775,113,59,2015-07-25,803,165,small market,west,36,leaves,herbal tea,mint,125,296,nevada,100,150,100,250,58,decaf,125,True,net positive
+775,228,151,2015-07-26,1691,304,small market,west,75,leaves,tea,darjeeling,231,567,nevada,160,220,140,380,108,regular,231,True,net positive
+702,211,110,2015-07-27,1778,212,small market,west,59,leaves,tea,earl grey,156,451,nevada,150,150,80,300,84,regular,156,True,net positive
+503,78,42,2015-07-28,798,119,small market,west,25,leaves,tea,earl grey,75,210,oregon,50,90,50,140,57,regular,75,True,net positive
+775,245,-225,2015-07-29,7653,-245,small market,west,93,leaves,tea,green tea,-338,34,nevada,180,-180,-280,0,127,regular,-338,True,net negative
+971,102,62,2015-07-30,666,143,small market,west,31,leaves,tea,green tea,105,261,oregon,70,100,70,170,54,regular,105,True,net positive
+951,224,-71,2015-07-31,4216,-32,major market,west,73,beans,coffee,decaf irish cream,-136,205,california,260,-40,-150,220,117,decaf,-136,True,net negative
+209,247,111,2015-08-01,1744,329,major market,west,81,beans,espresso,decaf espresso,254,614,california,240,310,210,550,113,decaf,254,True,net positive
+209,127,-41,2015-08-02,2947,-25,major market,west,40,beans,coffee,amaretto,-81,109,california,150,-30,-90,120,63,regular,-81,True,net negative
+530,279,52,2015-08-03,2642,420,major market,west,97,beans,coffee,colombian,317,745,california,330,500,350,830,149,regular,317,True,net positive
+949,250,73,2015-08-04,1820,251,major market,west,70,beans,espresso,caffe latte,190,534,california,240,240,160,480,94,regular,190,True,net positive
+530,135,6,2015-08-05,940,187,major market,west,122,beans,espresso,caffe mocha,52,343,california,130,180,40,310,156,regular,52,True,net positive
+916,86,52,2015-08-06,1003,124,major market,west,24,leaves,herbal tea,chamomile,103,224,california,80,110,80,190,35,decaf,103,True,net positive
+661,241,109,2015-08-07,1321,284,major market,west,74,leaves,herbal tea,lemon,222,559,california,220,260,170,480,96,decaf,222,True,net positive
+323,123,89,2015-08-08,959,179,major market,west,34,leaves,tea,darjeeling,154,322,california,90,130,110,220,45,regular,154,True,net positive
+801,68,-11,2015-08-09,619,85,small market,west,25,beans,coffee,decaf irish cream,36,163,utah,80,100,50,180,59,decaf,36,True,net positive
+206,105,-20,2015-08-10,716,145,small market,west,95,beans,coffee,decaf irish cream,36,266,washington,120,170,50,290,125,decaf,36,True,net positive
+971,153,49,2015-08-11,1319,153,small market,west,42,beans,espresso,decaf espresso,107,326,oregon,150,140,80,290,66,decaf,107,True,net positive
+360,80,16,2015-08-12,1079,96,small market,west,24,beans,espresso,decaf espresso,63,188,washington,70,100,60,170,45,decaf,63,True,net positive
+435,63,3,2015-08-13,1075,76,small market,west,19,beans,coffee,amaretto,45,148,utah,70,90,50,160,40,regular,45,True,net positive
+360,72,6,2015-08-14,461,104,small market,west,23,beans,coffee,colombian,70,188,washington,80,120,80,200,46,regular,70,True,net positive
+775,16,5,2015-08-15,851,25,small market,west,4,beans,espresso,caffe mocha,13,44,nevada,10,20,10,30,15,regular,13,True,net positive
+435,94,44,2015-08-16,540,120,small market,west,31,beans,espresso,caffe mocha,91,228,utah,90,110,70,200,43,regular,91,True,net positive
+702,135,17,2015-08-17,940,187,small market,west,122,leaves,herbal tea,chamomile,53,343,nevada,120,170,30,290,155,decaf,53,True,net positive
+253,115,46,2015-08-18,1166,174,small market,west,37,leaves,herbal tea,chamomile,124,308,washington,100,160,110,260,69,decaf,124,True,net positive
+702,224,118,2015-08-19,1191,310,small market,west,73,leaves,herbal tea,lemon,229,569,nevada,210,280,170,490,116,decaf,229,True,net positive
+503,81,28,2015-08-20,551,104,small market,west,26,leaves,herbal tea,lemon,78,197,oregon,70,100,70,170,38,decaf,78,True,net positive
+775,127,61,2015-08-21,830,185,small market,west,40,leaves,herbal tea,mint,142,332,nevada,120,170,120,290,63,decaf,142,True,net positive
+775,247,169,2015-08-22,1744,329,small market,west,81,leaves,tea,darjeeling,253,614,nevada,180,240,150,420,114,regular,253,True,net positive
+775,250,133,2015-08-23,1820,251,small market,west,70,leaves,tea,earl grey,190,534,nevada,180,180,100,360,94,regular,190,True,net positive
+971,88,48,2015-08-24,817,133,small market,west,29,leaves,tea,earl grey,88,236,oregon,60,100,60,160,60,regular,88,True,net positive
+775,294,-285,2015-08-25,8252,-294,small market,west,111,leaves,tea,green tea,-406,33,nevada,210,-210,-320,0,145,regular,-406,True,net negative
+503,134,80,2015-08-26,690,186,small market,west,41,leaves,tea,green tea,142,341,oregon,90,140,100,230,65,regular,142,True,net positive
+435,20,-22,2015-08-27,218,25,small market,west,7,leaves,tea,green tea,-12,48,utah,10,20,0,30,40,regular,-12,True,net negative
